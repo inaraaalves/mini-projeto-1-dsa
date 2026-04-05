@@ -1,0 +1,1501 @@
+ID_Pedido,Data_Pedido,Nome_Produto,Categoria,Preco_Unitario,Quantidade,ID_Cliente,Cidade,Estado
+1000,2025-01-01 23:00:00,Batom Matte,Maquiagem,85.0,1,160,Manaus,AM
+1001,2025-01-01 12:00:00,Perfume Elegance,Perfumaria,350.0,6,189,Rio de Janeiro,RJ
+1002,2025-01-01 00:00:00,Base Lux,Maquiagem,80.0,8,226,Curitiba,PR
+1003,2025-01-01 16:00:00,Perfume Bloom,Perfumaria,100.0,9,211,Porto Alegre,RS
+1004,2025-01-01 10:00:00,Perfume Elegance,Perfumaria,350.0,3,189,Manaus,AM
+1005,2025-01-02 05:00:00,Perfume Elegance,Perfumaria,350.0,4,218,Salvador,BA
+1006,2025-01-02 02:00:00,Perfume Elegance,Perfumaria,350.0,1,172,São Paulo,SP
+1007,2025-01-02 12:00:00,Condicionador Luxo,Banho,57.77,7,127,Manaus,AM
+1008,2025-01-02 21:00:00,Condicionador Luxo,Banho,55.91,1,218,Manaus,AM
+1009,2025-01-02 06:00:00,Gloss Crystal,Maquiagem,50.0,6,220,Manaus,AM
+1010,2025-01-03 04:00:00,Gloss Crystal,Maquiagem,50.0,5,191,Rio de Janeiro,RJ
+1011,2025-01-03 15:00:00,Perfume Elegance,Perfumaria,350.0,3,142,Salvador,BA
+1012,2025-01-03 18:00:00,Perfume Elegance,Perfumaria,350.0,5,248,Belo Horizonte,MG
+1013,2025-01-03 02:00:00,Perfume Aurora,Perfumaria,150.0,4,153,São Luís,MA
+1014,2025-01-03 13:00:00,Esfoliante Premium,Banho,49.5,3,228,Belém,PA
+1015,2025-01-04 04:00:00,Condicionador Luxo,Banho,57.93,2,194,Manaus,AM
+1016,2025-01-04 04:00:00,Batom Matte,Maquiagem,85.0,2,122,Manaus,AM
+1017,2025-01-04 22:00:00,Perfume Bloom,Perfumaria,100.0,7,131,Curitiba,PR
+1018,2025-01-04 13:00:00,Batom Matte,Maquiagem,85.0,8,168,Belém,PA
+1019,2025-01-04 03:00:00,Esfoliante Premium,Banho,49.6,1,172,Porto Alegre,RS
+1020,2025-01-05 01:00:00,Gloss Crystal,Maquiagem,50.0,5,240,São Luís,MA
+1021,2025-01-05 15:00:00,Batom Matte,Maquiagem,85.0,3,189,Belém,PA
+1022,2025-01-05 15:00:00,Esfoliante Premium,Banho,46.8,9,232,São Paulo,SP
+1023,2025-01-05 19:00:00,Gloss Crystal,Maquiagem,50.0,9,215,Curitiba,PR
+1024,2025-01-05 03:00:00,Perfume Aurora,Perfumaria,150.0,1,235,Fortaleza,CE
+1025,2025-01-06 06:00:00,Gloss Crystal,Maquiagem,50.0,7,241,Salvador,BA
+1026,2025-01-06 12:00:00,Esfoliante Premium,Banho,46.53,9,159,Belo Horizonte,MG
+1027,2025-01-06 18:00:00,Perfume Elegance,Perfumaria,350.0,9,156,São Luís,MA
+1028,2025-01-06 04:00:00,Perfume Elegance,Perfumaria,350.0,3,205,São Luís,MA
+1029,2025-01-06 02:00:00,Base Lux,Maquiagem,80.0,6,231,Manaus,AM
+1030,2025-01-07 12:00:00,Gloss Crystal,Maquiagem,50.0,5,147,Belo Horizonte,MG
+1031,2025-01-07 00:00:00,Perfume Bloom,Perfumaria,100.0,9,171,São Luís,MA
+1032,2025-01-07 05:00:00,Esfoliante Premium,Banho,46.62,2,108,São Luís,MA
+1033,2025-01-07 16:00:00,Base Lux,Maquiagem,80.0,7,145,São Paulo,SP
+1034,2025-01-07 21:00:00,Condicionador Luxo,Banho,55.13,7,163,Curitiba,PR
+1035,2025-01-08 20:00:00,Gloss Crystal,Maquiagem,50.0,6,129,São Paulo,SP
+1036,2025-01-08 05:00:00,Perfume Aurora,Perfumaria,150.0,4,108,Belo Horizonte,MG
+1037,2025-01-08 05:00:00,Condicionador Luxo,Banho,59.59,5,214,São Paulo,SP
+1038,2025-01-08 01:00:00,Perfume Elegance,Perfumaria,350.0,1,148,Belém,PA
+1039,2025-01-08 05:00:00,Gloss Crystal,Maquiagem,50.0,9,170,Belém,PA
+1040,2025-01-09 06:00:00,Perfume Bloom,Perfumaria,100.0,6,102,Curitiba,PR
+1041,2025-01-09 20:00:00,Perfume Aurora,Perfumaria,150.0,9,241,Salvador,BA
+1042,2025-01-09 06:00:00,Perfume Elegance,Perfumaria,350.0,9,194,Curitiba,PR
+1043,2025-01-09 09:00:00,Perfume Bloom,Perfumaria,100.0,8,158,Manaus,AM
+1044,2025-01-09 15:00:00,Perfume Aurora,Perfumaria,150.0,8,114,Fortaleza,CE
+1045,2025-01-10 06:00:00,Batom Matte,Maquiagem,85.0,2,180,Salvador,BA
+1046,2025-01-10 00:00:00,Perfume Aurora,Perfumaria,150.0,3,140,São Paulo,SP
+1047,2025-01-10 22:00:00,Esfoliante Premium,Banho,48.76,4,199,São Paulo,SP
+1048,2025-01-10 17:00:00,Esfoliante Premium,Banho,45.14,5,234,São Luís,MA
+1049,2025-01-10 05:00:00,Gloss Crystal,Maquiagem,50.0,2,192,Belém,PA
+1050,2025-01-11 14:00:00,Condicionador Luxo,Banho,55.39,9,175,São Paulo,SP
+1051,2025-01-11 07:00:00,Perfume Bloom,Perfumaria,100.0,8,101,Belo Horizonte,MG
+1052,2025-01-11 07:00:00,Esfoliante Premium,Banho,46.46,8,189,Fortaleza,CE
+1053,2025-01-11 13:00:00,Gloss Crystal,Maquiagem,50.0,4,219,Rio de Janeiro,RJ
+1054,2025-01-11 18:00:00,Perfume Aurora,Perfumaria,150.0,1,117,São Luís,MA
+1055,2025-01-12 23:00:00,Perfume Aurora,Perfumaria,150.0,2,224,Rio de Janeiro,RJ
+1056,2025-01-12 12:00:00,Esfoliante Premium,Banho,48.67,7,113,Fortaleza,CE
+1057,2025-01-12 00:00:00,Batom Matte,Maquiagem,85.0,1,115,Belo Horizonte,MG
+1058,2025-01-12 06:00:00,Condicionador Luxo,Banho,56.18,2,240,São Paulo,SP
+1059,2025-01-12 05:00:00,Perfume Elegance,Perfumaria,350.0,7,136,Belo Horizonte,MG
+1060,2025-01-13 10:00:00,Perfume Aurora,Perfumaria,150.0,6,162,Belo Horizonte,MG
+1061,2025-01-13 21:00:00,Gloss Crystal,Maquiagem,50.0,3,210,Curitiba,PR
+1062,2025-01-13 17:00:00,Condicionador Luxo,Banho,55.24,9,208,Rio de Janeiro,RJ
+1063,2025-01-13 10:00:00,Gloss Crystal,Maquiagem,50.0,6,120,Belém,PA
+1064,2025-01-13 16:00:00,Perfume Bloom,Perfumaria,100.0,7,237,Belo Horizonte,MG
+1065,2025-01-14 19:00:00,Batom Matte,Maquiagem,85.0,8,199,Curitiba,PR
+1066,2025-01-14 18:00:00,Base Lux,Maquiagem,80.0,9,164,São Paulo,SP
+1067,2025-01-14 22:00:00,Gloss Crystal,Maquiagem,50.0,1,181,Manaus,AM
+1068,2025-01-14 02:00:00,Batom Matte,Maquiagem,85.0,7,197,Belo Horizonte,MG
+1069,2025-01-14 03:00:00,Perfume Aurora,Perfumaria,150.0,3,209,Manaus,AM
+1070,2025-01-15 04:00:00,Perfume Elegance,Perfumaria,350.0,4,236,Belo Horizonte,MG
+1071,2025-01-15 08:00:00,Esfoliante Premium,Banho,46.08,7,175,Manaus,AM
+1072,2025-01-15 08:00:00,Gloss Crystal,Maquiagem,50.0,7,162,Curitiba,PR
+1073,2025-01-15 00:00:00,Perfume Aurora,Perfumaria,150.0,7,191,São Paulo,SP
+1074,2025-01-15 05:00:00,Condicionador Luxo,Banho,55.72,2,139,Manaus,AM
+1075,2025-01-16 11:00:00,Condicionador Luxo,Banho,55.09,4,246,Belo Horizonte,MG
+1076,2025-01-16 16:00:00,Perfume Elegance,Perfumaria,350.0,3,169,Curitiba,PR
+1077,2025-01-16 04:00:00,Batom Matte,Maquiagem,85.0,3,129,Belo Horizonte,MG
+1078,2025-01-16 22:00:00,Gloss Crystal,Maquiagem,50.0,5,246,Rio de Janeiro,RJ
+1079,2025-01-16 04:00:00,Perfume Elegance,Perfumaria,350.0,2,242,São Paulo,SP
+1080,2025-01-17 06:00:00,Perfume Aurora,Perfumaria,150.0,8,132,Belo Horizonte,MG
+1081,2025-01-17 02:00:00,Gloss Crystal,Maquiagem,50.0,3,154,Curitiba,PR
+1082,2025-01-17 03:00:00,Perfume Bloom,Perfumaria,100.0,7,133,São Luís,MA
+1083,2025-01-17 15:00:00,Perfume Aurora,Perfumaria,150.0,5,150,Salvador,BA
+1084,2025-01-17 00:00:00,Condicionador Luxo,Banho,55.89,7,212,Fortaleza,CE
+1085,2025-01-18 13:00:00,Perfume Bloom,Perfumaria,100.0,7,231,Curitiba,PR
+1086,2025-01-18 05:00:00,Esfoliante Premium,Banho,49.09,4,132,Rio de Janeiro,RJ
+1087,2025-01-18 09:00:00,Base Lux,Maquiagem,80.0,9,148,Curitiba,PR
+1088,2025-01-18 16:00:00,Esfoliante Premium,Banho,48.76,8,232,Rio de Janeiro,RJ
+1089,2025-01-18 20:00:00,Perfume Bloom,Perfumaria,100.0,6,229,Manaus,AM
+1090,2025-01-19 08:00:00,Esfoliante Premium,Banho,45.44,3,224,Rio de Janeiro,RJ
+1091,2025-01-19 11:00:00,Base Lux,Maquiagem,80.0,8,132,Belém,PA
+1092,2025-01-19 15:00:00,Batom Matte,Maquiagem,85.0,6,116,Belém,PA
+1093,2025-01-19 06:00:00,Base Lux,Maquiagem,80.0,9,204,Rio de Janeiro,RJ
+1094,2025-01-19 16:00:00,Batom Matte,Maquiagem,85.0,5,128,Manaus,AM
+1095,2025-01-20 22:00:00,Base Lux,Maquiagem,80.0,6,120,Manaus,AM
+1096,2025-01-20 03:00:00,Perfume Aurora,Perfumaria,150.0,9,237,Salvador,BA
+1097,2025-01-20 14:00:00,Condicionador Luxo,Banho,54.97,1,157,Salvador,BA
+1098,2025-01-20 00:00:00,Base Lux,Maquiagem,80.0,2,214,Salvador,BA
+1099,2025-01-20 09:00:00,Perfume Elegance,Perfumaria,350.0,5,112,Curitiba,PR
+1100,2025-01-21 00:00:00,Perfume Elegance,Perfumaria,350.0,6,239,Salvador,BA
+1101,2025-01-21 10:00:00,Perfume Aurora,Perfumaria,150.0,3,213,Porto Alegre,RS
+1102,2025-01-21 23:00:00,Batom Matte,Maquiagem,85.0,3,160,Curitiba,PR
+1103,2025-01-21 17:00:00,Perfume Aurora,Perfumaria,150.0,4,149,Belém,PA
+1104,2025-01-21 18:00:00,Condicionador Luxo,Banho,58.28,2,161,Rio de Janeiro,RJ
+1105,2025-01-22 11:00:00,Perfume Aurora,Perfumaria,150.0,7,172,Belo Horizonte,MG
+1106,2025-01-22 08:00:00,Gloss Crystal,Maquiagem,50.0,5,148,Manaus,AM
+1107,2025-01-22 18:00:00,Perfume Aurora,Perfumaria,150.0,5,102,São Luís,MA
+1108,2025-01-22 14:00:00,Condicionador Luxo,Banho,56.74,6,187,Porto Alegre,RS
+1109,2025-01-22 22:00:00,Perfume Aurora,Perfumaria,150.0,8,120,Rio de Janeiro,RJ
+1110,2025-01-23 09:00:00,Perfume Bloom,Perfumaria,100.0,6,139,Belém,PA
+1111,2025-01-23 18:00:00,Perfume Aurora,Perfumaria,150.0,9,169,Porto Alegre,RS
+1112,2025-01-23 06:00:00,Batom Matte,Maquiagem,85.0,2,192,Fortaleza,CE
+1113,2025-01-23 21:00:00,Esfoliante Premium,Banho,45.74,4,182,Fortaleza,CE
+1114,2025-01-23 13:00:00,Gloss Crystal,Maquiagem,50.0,7,112,Rio de Janeiro,RJ
+1115,2025-01-24 05:00:00,Perfume Bloom,Perfumaria,100.0,8,151,Manaus,AM
+1116,2025-01-24 03:00:00,Gloss Crystal,Maquiagem,50.0,8,186,São Luís,MA
+1117,2025-01-24 12:00:00,Perfume Bloom,Perfumaria,100.0,9,140,Fortaleza,CE
+1118,2025-01-24 04:00:00,Perfume Bloom,Perfumaria,100.0,1,110,Porto Alegre,RS
+1119,2025-01-24 22:00:00,Perfume Bloom,Perfumaria,100.0,7,122,Manaus,AM
+1120,2025-01-25 12:00:00,Perfume Aurora,Perfumaria,150.0,1,198,Salvador,BA
+1121,2025-01-25 17:00:00,Perfume Bloom,Perfumaria,100.0,4,119,Rio de Janeiro,RJ
+1122,2025-01-25 18:00:00,Perfume Elegance,Perfumaria,350.0,7,127,Belo Horizonte,MG
+1123,2025-01-25 07:00:00,Perfume Aurora,Perfumaria,150.0,1,196,Manaus,AM
+1124,2025-01-25 16:00:00,Batom Matte,Maquiagem,85.0,6,132,São Paulo,SP
+1125,2025-01-26 22:00:00,Base Lux,Maquiagem,80.0,6,128,Manaus,AM
+1126,2025-01-26 08:00:00,Batom Matte,Maquiagem,85.0,7,167,São Luís,MA
+1127,2025-01-26 19:00:00,Base Lux,Maquiagem,80.0,8,241,Manaus,AM
+1128,2025-01-26 18:00:00,Perfume Aurora,Perfumaria,150.0,9,192,Belo Horizonte,MG
+1129,2025-01-26 00:00:00,Perfume Bloom,Perfumaria,100.0,8,115,Curitiba,PR
+1130,2025-01-27 20:00:00,Condicionador Luxo,Banho,55.18,6,239,São Luís,MA
+1131,2025-01-27 13:00:00,Esfoliante Premium,Banho,47.06,3,134,São Luís,MA
+1132,2025-01-27 04:00:00,Perfume Elegance,Perfumaria,350.0,7,245,Salvador,BA
+1133,2025-01-27 14:00:00,Batom Matte,Maquiagem,85.0,1,174,Rio de Janeiro,RJ
+1134,2025-01-27 12:00:00,Condicionador Luxo,Banho,55.75,3,168,Salvador,BA
+1135,2025-01-28 20:00:00,Gloss Crystal,Maquiagem,50.0,5,200,Curitiba,PR
+1136,2025-01-28 07:00:00,Perfume Elegance,Perfumaria,350.0,3,231,Belo Horizonte,MG
+1137,2025-01-28 12:00:00,Esfoliante Premium,Banho,50.0,9,194,Salvador,BA
+1138,2025-01-28 11:00:00,Perfume Bloom,Perfumaria,100.0,9,107,Curitiba,PR
+1139,2025-01-28 15:00:00,Gloss Crystal,Maquiagem,50.0,7,176,Manaus,AM
+1140,2025-01-29 22:00:00,Condicionador Luxo,Banho,57.16,9,190,Salvador,BA
+1141,2025-01-29 04:00:00,Perfume Aurora,Perfumaria,150.0,9,112,São Paulo,SP
+1142,2025-01-29 08:00:00,Esfoliante Premium,Banho,47.72,8,240,São Paulo,SP
+1143,2025-01-29 04:00:00,Base Lux,Maquiagem,80.0,2,244,Manaus,AM
+1144,2025-01-29 21:00:00,Batom Matte,Maquiagem,85.0,8,103,Porto Alegre,RS
+1145,2025-01-30 03:00:00,Perfume Aurora,Perfumaria,150.0,1,182,Manaus,AM
+1146,2025-01-30 05:00:00,Perfume Aurora,Perfumaria,150.0,8,105,Belém,PA
+1147,2025-01-30 10:00:00,Perfume Bloom,Perfumaria,100.0,8,226,Belo Horizonte,MG
+1148,2025-01-30 16:00:00,Esfoliante Premium,Banho,45.44,4,178,Porto Alegre,RS
+1149,2025-01-30 06:00:00,Gloss Crystal,Maquiagem,50.0,4,205,Curitiba,PR
+1150,2025-01-31 11:00:00,Base Lux,Maquiagem,80.0,8,147,Curitiba,PR
+1151,2025-01-31 21:00:00,Perfume Bloom,Perfumaria,100.0,2,242,Belo Horizonte,MG
+1152,2025-01-31 07:00:00,Batom Matte,Maquiagem,85.0,4,141,Curitiba,PR
+1153,2025-01-31 12:00:00,Perfume Bloom,Perfumaria,100.0,1,199,Porto Alegre,RS
+1154,2025-01-31 05:00:00,Perfume Elegance,Perfumaria,350.0,2,244,Rio de Janeiro,RJ
+1155,2025-02-01 05:00:00,Condicionador Luxo,Banho,56.97,1,135,São Paulo,SP
+1156,2025-02-01 21:00:00,Condicionador Luxo,Banho,56.22,2,246,São Luís,MA
+1157,2025-02-01 13:00:00,Base Lux,Maquiagem,80.0,2,156,Fortaleza,CE
+1158,2025-02-01 18:00:00,Esfoliante Premium,Banho,47.6,4,203,Porto Alegre,RS
+1159,2025-02-01 23:00:00,Perfume Bloom,Perfumaria,100.0,4,224,Porto Alegre,RS
+1160,2025-02-02 19:00:00,Batom Matte,Maquiagem,85.0,7,238,Fortaleza,CE
+1161,2025-02-02 23:00:00,Perfume Bloom,Perfumaria,100.0,3,248,Salvador,BA
+1162,2025-02-02 17:00:00,Perfume Aurora,Perfumaria,150.0,9,205,Porto Alegre,RS
+1163,2025-02-02 10:00:00,Perfume Bloom,Perfumaria,100.0,6,117,São Paulo,SP
+1164,2025-02-02 11:00:00,Base Lux,Maquiagem,80.0,5,240,Salvador,BA
+1165,2025-02-03 09:00:00,Base Lux,Maquiagem,80.0,4,214,Belém,PA
+1166,2025-02-03 06:00:00,Batom Matte,Maquiagem,85.0,1,166,Belo Horizonte,MG
+1167,2025-02-03 08:00:00,Base Lux,Maquiagem,80.0,8,227,Belo Horizonte,MG
+1168,2025-02-03 23:00:00,Perfume Elegance,Perfumaria,350.0,6,247,Rio de Janeiro,RJ
+1169,2025-02-03 03:00:00,Perfume Bloom,Perfumaria,100.0,9,158,Belo Horizonte,MG
+1170,2025-02-04 05:00:00,Perfume Aurora,Perfumaria,150.0,2,130,Fortaleza,CE
+1171,2025-02-04 00:00:00,Condicionador Luxo,Banho,55.12,3,205,Manaus,AM
+1172,2025-02-04 10:00:00,Perfume Elegance,Perfumaria,350.0,5,132,Belém,PA
+1173,2025-02-04 12:00:00,Base Lux,Maquiagem,80.0,6,121,Salvador,BA
+1174,2025-02-04 19:00:00,Condicionador Luxo,Banho,55.71,1,118,Manaus,AM
+1175,2025-02-05 20:00:00,Batom Matte,Maquiagem,85.0,8,185,Belo Horizonte,MG
+1176,2025-02-05 05:00:00,Batom Matte,Maquiagem,85.0,9,109,Porto Alegre,RS
+1177,2025-02-05 02:00:00,Condicionador Luxo,Banho,56.01,9,168,São Paulo,SP
+1178,2025-02-05 22:00:00,Esfoliante Premium,Banho,47.3,9,227,Porto Alegre,RS
+1179,2025-02-05 02:00:00,Condicionador Luxo,Banho,54.63,8,174,Manaus,AM
+1180,2025-02-06 12:00:00,Perfume Bloom,Perfumaria,100.0,3,130,Manaus,AM
+1181,2025-02-06 07:00:00,Esfoliante Premium,Banho,45.45,6,143,São Luís,MA
+1182,2025-02-06 06:00:00,Perfume Bloom,Perfumaria,100.0,8,129,Belém,PA
+1183,2025-02-06 14:00:00,Condicionador Luxo,Banho,58.77,6,196,São Luís,MA
+1184,2025-02-06 13:00:00,Perfume Elegance,Perfumaria,350.0,2,107,Porto Alegre,RS
+1185,2025-02-07 16:00:00,Esfoliante Premium,Banho,46.12,6,164,Manaus,AM
+1186,2025-02-07 00:00:00,Esfoliante Premium,Banho,49.25,9,234,São Paulo,SP
+1187,2025-02-07 13:00:00,Batom Matte,Maquiagem,85.0,1,164,São Luís,MA
+1188,2025-02-07 10:00:00,Batom Matte,Maquiagem,85.0,6,185,São Paulo,SP
+1189,2025-02-07 08:00:00,Condicionador Luxo,Banho,59.49,2,173,Fortaleza,CE
+1190,2025-02-08 18:00:00,Condicionador Luxo,Banho,55.87,9,141,São Luís,MA
+1191,2025-02-08 04:00:00,Gloss Crystal,Maquiagem,50.0,6,146,Manaus,AM
+1192,2025-02-08 06:00:00,Perfume Bloom,Perfumaria,100.0,8,131,Salvador,BA
+1193,2025-02-08 08:00:00,Perfume Aurora,Perfumaria,150.0,1,110,São Paulo,SP
+1194,2025-02-08 05:00:00,Batom Matte,Maquiagem,85.0,6,147,Manaus,AM
+1195,2025-02-09 13:00:00,Perfume Bloom,Perfumaria,100.0,5,240,Rio de Janeiro,RJ
+1196,2025-02-09 20:00:00,Perfume Bloom,Perfumaria,100.0,4,224,Manaus,AM
+1197,2025-02-09 18:00:00,Batom Matte,Maquiagem,85.0,3,176,São Paulo,SP
+1198,2025-02-09 13:00:00,Esfoliante Premium,Banho,46.27,1,105,São Luís,MA
+1199,2025-02-09 03:00:00,Base Lux,Maquiagem,80.0,4,143,Curitiba,PR
+1200,2025-02-10 11:00:00,Perfume Bloom,Perfumaria,100.0,2,156,Manaus,AM
+1201,2025-02-10 08:00:00,Gloss Crystal,Maquiagem,50.0,8,167,Belém,PA
+1202,2025-02-10 20:00:00,Perfume Elegance,Perfumaria,350.0,5,131,Salvador,BA
+1203,2025-02-10 21:00:00,Esfoliante Premium,Banho,47.84,3,150,Porto Alegre,RS
+1204,2025-02-10 20:00:00,Gloss Crystal,Maquiagem,50.0,5,200,Fortaleza,CE
+1205,2025-02-11 04:00:00,Gloss Crystal,Maquiagem,50.0,5,247,Fortaleza,CE
+1206,2025-02-11 01:00:00,Perfume Elegance,Perfumaria,350.0,3,217,Salvador,BA
+1207,2025-02-11 12:00:00,Perfume Elegance,Perfumaria,350.0,7,170,Belém,PA
+1208,2025-02-11 13:00:00,Esfoliante Premium,Banho,48.32,8,232,Manaus,AM
+1209,2025-02-11 22:00:00,Base Lux,Maquiagem,80.0,7,180,Fortaleza,CE
+1210,2025-02-12 01:00:00,Gloss Crystal,Maquiagem,50.0,6,195,Porto Alegre,RS
+1211,2025-02-12 01:00:00,Esfoliante Premium,Banho,46.71,4,121,Belém,PA
+1212,2025-02-12 09:00:00,Condicionador Luxo,Banho,59.82,1,104,Salvador,BA
+1213,2025-02-12 12:00:00,Gloss Crystal,Maquiagem,50.0,3,231,Rio de Janeiro,RJ
+1214,2025-02-12 04:00:00,Batom Matte,Maquiagem,85.0,5,136,Manaus,AM
+1215,2025-02-13 11:00:00,Batom Matte,Maquiagem,85.0,3,195,Salvador,BA
+1216,2025-02-13 02:00:00,Base Lux,Maquiagem,80.0,3,146,Belo Horizonte,MG
+1217,2025-02-13 07:00:00,Gloss Crystal,Maquiagem,50.0,8,144,Porto Alegre,RS
+1218,2025-02-13 06:00:00,Perfume Elegance,Perfumaria,350.0,7,228,São Luís,MA
+1219,2025-02-13 04:00:00,Gloss Crystal,Maquiagem,50.0,1,133,Porto Alegre,RS
+1220,2025-02-14 14:00:00,Base Lux,Maquiagem,80.0,2,171,Porto Alegre,RS
+1221,2025-02-14 02:00:00,Batom Matte,Maquiagem,85.0,1,239,Curitiba,PR
+1222,2025-02-14 13:00:00,Perfume Aurora,Perfumaria,150.0,9,117,Manaus,AM
+1223,2025-02-14 21:00:00,Perfume Aurora,Perfumaria,150.0,2,157,Curitiba,PR
+1224,2025-02-14 04:00:00,Perfume Aurora,Perfumaria,150.0,3,248,Rio de Janeiro,RJ
+1225,2025-02-15 18:00:00,Base Lux,Maquiagem,80.0,8,139,Fortaleza,CE
+1226,2025-02-15 01:00:00,Gloss Crystal,Maquiagem,50.0,2,123,Manaus,AM
+1227,2025-02-15 03:00:00,Perfume Aurora,Perfumaria,150.0,6,238,Manaus,AM
+1228,2025-02-15 07:00:00,Base Lux,Maquiagem,80.0,2,125,Fortaleza,CE
+1229,2025-02-15 04:00:00,Gloss Crystal,Maquiagem,50.0,6,200,São Paulo,SP
+1230,2025-02-16 10:00:00,Esfoliante Premium,Banho,47.04,8,226,Porto Alegre,RS
+1231,2025-02-16 20:00:00,Batom Matte,Maquiagem,85.0,5,169,Salvador,BA
+1232,2025-02-16 19:00:00,Gloss Crystal,Maquiagem,50.0,7,249,Belém,PA
+1233,2025-02-16 20:00:00,Perfume Aurora,Perfumaria,150.0,9,195,Curitiba,PR
+1234,2025-02-16 18:00:00,Condicionador Luxo,Banho,54.75,6,176,São Luís,MA
+1235,2025-02-17 14:00:00,Gloss Crystal,Maquiagem,50.0,6,195,Belo Horizonte,MG
+1236,2025-02-17 08:00:00,Base Lux,Maquiagem,80.0,6,224,Curitiba,PR
+1237,2025-02-17 03:00:00,Condicionador Luxo,Banho,58.0,5,188,Belém,PA
+1238,2025-02-17 03:00:00,Batom Matte,Maquiagem,85.0,7,238,Belo Horizonte,MG
+1239,2025-02-17 10:00:00,Perfume Aurora,Perfumaria,150.0,6,190,Curitiba,PR
+1240,2025-02-18 00:00:00,Batom Matte,Maquiagem,85.0,3,244,Belém,PA
+1241,2025-02-18 18:00:00,Condicionador Luxo,Banho,59.92,3,125,Belo Horizonte,MG
+1242,2025-02-18 19:00:00,Condicionador Luxo,Banho,58.02,4,229,Curitiba,PR
+1243,2025-02-18 04:00:00,Perfume Bloom,Perfumaria,100.0,4,152,São Paulo,SP
+1244,2025-02-18 02:00:00,Base Lux,Maquiagem,80.0,3,125,São Paulo,SP
+1245,2025-02-19 23:00:00,Base Lux,Maquiagem,80.0,1,144,Rio de Janeiro,RJ
+1246,2025-02-19 04:00:00,Batom Matte,Maquiagem,85.0,3,122,Salvador,BA
+1247,2025-02-19 09:00:00,Perfume Elegance,Perfumaria,350.0,2,166,Belém,PA
+1248,2025-02-19 22:00:00,Condicionador Luxo,Banho,54.76,5,118,Porto Alegre,RS
+1249,2025-02-19 18:00:00,Batom Matte,Maquiagem,85.0,7,171,Belo Horizonte,MG
+1250,2025-02-20 05:00:00,Esfoliante Premium,Banho,45.82,8,174,São Paulo,SP
+1251,2025-02-20 05:00:00,Condicionador Luxo,Banho,58.7,7,236,Belo Horizonte,MG
+1252,2025-02-20 19:00:00,Esfoliante Premium,Banho,45.94,1,116,Manaus,AM
+1253,2025-02-20 20:00:00,Esfoliante Premium,Banho,49.58,6,193,Fortaleza,CE
+1254,2025-02-20 18:00:00,Perfume Aurora,Perfumaria,150.0,4,240,Fortaleza,CE
+1255,2025-02-21 12:00:00,Perfume Aurora,Perfumaria,150.0,5,189,Fortaleza,CE
+1256,2025-02-21 16:00:00,Perfume Bloom,Perfumaria,100.0,5,130,Manaus,AM
+1257,2025-02-21 10:00:00,Perfume Aurora,Perfumaria,150.0,1,132,São Luís,MA
+1258,2025-02-21 09:00:00,Base Lux,Maquiagem,80.0,6,193,Curitiba,PR
+1259,2025-02-21 06:00:00,Base Lux,Maquiagem,80.0,8,191,Rio de Janeiro,RJ
+1260,2025-02-22 07:00:00,Perfume Elegance,Perfumaria,350.0,1,215,Fortaleza,CE
+1261,2025-02-22 14:00:00,Perfume Bloom,Perfumaria,100.0,8,203,São Paulo,SP
+1262,2025-02-22 19:00:00,Gloss Crystal,Maquiagem,50.0,9,193,Porto Alegre,RS
+1263,2025-02-22 14:00:00,Batom Matte,Maquiagem,85.0,8,237,Belo Horizonte,MG
+1264,2025-02-22 13:00:00,Esfoliante Premium,Banho,48.43,1,192,São Paulo,SP
+1265,2025-02-23 15:00:00,Perfume Aurora,Perfumaria,150.0,3,122,Belém,PA
+1266,2025-02-23 15:00:00,Perfume Bloom,Perfumaria,100.0,9,146,Porto Alegre,RS
+1267,2025-02-23 05:00:00,Base Lux,Maquiagem,80.0,8,158,Salvador,BA
+1268,2025-02-23 07:00:00,Perfume Elegance,Perfumaria,350.0,8,165,Fortaleza,CE
+1269,2025-02-23 20:00:00,Esfoliante Premium,Banho,48.51,1,135,Rio de Janeiro,RJ
+1270,2025-02-24 07:00:00,Perfume Aurora,Perfumaria,150.0,4,182,Salvador,BA
+1271,2025-02-24 04:00:00,Perfume Aurora,Perfumaria,150.0,5,202,Curitiba,PR
+1272,2025-02-24 07:00:00,Batom Matte,Maquiagem,85.0,1,119,Manaus,AM
+1273,2025-02-24 12:00:00,Gloss Crystal,Maquiagem,50.0,8,161,Fortaleza,CE
+1274,2025-02-24 12:00:00,Esfoliante Premium,Banho,45.14,7,209,Salvador,BA
+1275,2025-02-25 20:00:00,Batom Matte,Maquiagem,85.0,8,186,Manaus,AM
+1276,2025-02-25 04:00:00,Perfume Elegance,Perfumaria,350.0,3,209,São Paulo,SP
+1277,2025-02-25 21:00:00,Base Lux,Maquiagem,80.0,9,151,Salvador,BA
+1278,2025-02-25 05:00:00,Gloss Crystal,Maquiagem,50.0,4,162,Manaus,AM
+1279,2025-02-25 06:00:00,Batom Matte,Maquiagem,85.0,6,135,Belo Horizonte,MG
+1280,2025-02-26 08:00:00,Esfoliante Premium,Banho,49.82,2,158,Salvador,BA
+1281,2025-02-26 01:00:00,Perfume Bloom,Perfumaria,100.0,3,133,São Luís,MA
+1282,2025-02-26 00:00:00,Perfume Aurora,Perfumaria,150.0,9,161,Manaus,AM
+1283,2025-02-26 07:00:00,Esfoliante Premium,Banho,47.24,1,230,São Luís,MA
+1284,2025-02-26 03:00:00,Perfume Aurora,Perfumaria,150.0,9,134,Curitiba,PR
+1285,2025-02-27 10:00:00,Perfume Aurora,Perfumaria,150.0,1,194,Manaus,AM
+1286,2025-02-27 22:00:00,Gloss Crystal,Maquiagem,50.0,9,108,Belo Horizonte,MG
+1287,2025-02-27 21:00:00,Gloss Crystal,Maquiagem,50.0,7,184,Curitiba,PR
+1288,2025-02-27 06:00:00,Esfoliante Premium,Banho,48.18,4,214,Belo Horizonte,MG
+1289,2025-02-27 15:00:00,Esfoliante Premium,Banho,49.57,8,133,Manaus,AM
+1290,2025-02-28 23:00:00,Batom Matte,Maquiagem,85.0,7,165,Salvador,BA
+1291,2025-02-28 08:00:00,Batom Matte,Maquiagem,85.0,8,245,Porto Alegre,RS
+1292,2025-02-28 23:00:00,Base Lux,Maquiagem,80.0,3,216,São Luís,MA
+1293,2025-02-28 20:00:00,Esfoliante Premium,Banho,48.23,2,122,São Luís,MA
+1294,2025-02-28 03:00:00,Perfume Bloom,Perfumaria,100.0,6,241,Rio de Janeiro,RJ
+1295,2025-03-01 14:00:00,Perfume Aurora,Perfumaria,150.0,6,141,Salvador,BA
+1296,2025-03-01 17:00:00,Perfume Aurora,Perfumaria,150.0,4,110,Porto Alegre,RS
+1297,2025-03-01 12:00:00,Batom Matte,Maquiagem,85.0,4,218,São Luís,MA
+1298,2025-03-01 07:00:00,Condicionador Luxo,Banho,56.45,6,126,São Luís,MA
+1299,2025-03-01 18:00:00,Perfume Aurora,Perfumaria,150.0,6,179,Fortaleza,CE
+1300,2025-03-02 21:00:00,Gloss Crystal,Maquiagem,50.0,9,249,Salvador,BA
+1301,2025-03-02 10:00:00,Esfoliante Premium,Banho,46.22,2,113,Salvador,BA
+1302,2025-03-02 21:00:00,Batom Matte,Maquiagem,85.0,3,183,Salvador,BA
+1303,2025-03-02 23:00:00,Condicionador Luxo,Banho,59.02,3,173,São Paulo,SP
+1304,2025-03-02 04:00:00,Esfoliante Premium,Banho,46.06,2,199,Rio de Janeiro,RJ
+1305,2025-03-03 21:00:00,Batom Matte,Maquiagem,85.0,5,176,Belo Horizonte,MG
+1306,2025-03-03 08:00:00,Esfoliante Premium,Banho,45.74,4,118,Porto Alegre,RS
+1307,2025-03-03 04:00:00,Gloss Crystal,Maquiagem,50.0,6,153,Porto Alegre,RS
+1308,2025-03-03 17:00:00,Perfume Elegance,Perfumaria,350.0,1,102,São Paulo,SP
+1309,2025-03-03 07:00:00,Esfoliante Premium,Banho,46.2,4,144,São Paulo,SP
+1310,2025-03-04 09:00:00,Condicionador Luxo,Banho,59.39,3,218,Belém,PA
+1311,2025-03-04 02:00:00,Perfume Aurora,Perfumaria,150.0,4,215,Curitiba,PR
+1312,2025-03-04 11:00:00,Perfume Aurora,Perfumaria,150.0,3,171,Fortaleza,CE
+1313,2025-03-04 06:00:00,Gloss Crystal,Maquiagem,50.0,4,167,São Luís,MA
+1314,2025-03-04 00:00:00,Base Lux,Maquiagem,80.0,9,165,Rio de Janeiro,RJ
+1315,2025-03-05 00:00:00,Esfoliante Premium,Banho,47.01,2,201,São Paulo,SP
+1316,2025-03-05 20:00:00,Base Lux,Maquiagem,80.0,9,108,São Luís,MA
+1317,2025-03-05 01:00:00,Condicionador Luxo,Banho,58.28,5,104,Fortaleza,CE
+1318,2025-03-05 12:00:00,Esfoliante Premium,Banho,48.4,6,136,Manaus,AM
+1319,2025-03-05 21:00:00,Perfume Bloom,Perfumaria,100.0,3,236,Porto Alegre,RS
+1320,2025-03-06 23:00:00,Condicionador Luxo,Banho,58.02,8,146,Curitiba,PR
+1321,2025-03-06 14:00:00,Perfume Elegance,Perfumaria,350.0,7,154,Curitiba,PR
+1322,2025-03-06 07:00:00,Perfume Bloom,Perfumaria,100.0,1,217,São Paulo,SP
+1323,2025-03-06 01:00:00,Batom Matte,Maquiagem,85.0,8,178,Fortaleza,CE
+1324,2025-03-06 06:00:00,Batom Matte,Maquiagem,85.0,6,244,Curitiba,PR
+1325,2025-03-07 12:00:00,Perfume Bloom,Perfumaria,100.0,2,153,Fortaleza,CE
+1326,2025-03-07 14:00:00,Condicionador Luxo,Banho,55.15,6,122,São Luís,MA
+1327,2025-03-07 23:00:00,Batom Matte,Maquiagem,85.0,3,208,Belo Horizonte,MG
+1328,2025-03-07 11:00:00,Esfoliante Premium,Banho,48.31,4,184,São Luís,MA
+1329,2025-03-07 20:00:00,Perfume Aurora,Perfumaria,150.0,4,140,Belém,PA
+1330,2025-03-08 11:00:00,Base Lux,Maquiagem,80.0,5,106,Rio de Janeiro,RJ
+1331,2025-03-08 08:00:00,Esfoliante Premium,Banho,46.23,6,193,Rio de Janeiro,RJ
+1332,2025-03-08 04:00:00,Perfume Bloom,Perfumaria,100.0,4,206,Rio de Janeiro,RJ
+1333,2025-03-08 20:00:00,Condicionador Luxo,Banho,58.78,6,163,Rio de Janeiro,RJ
+1334,2025-03-08 00:00:00,Perfume Elegance,Perfumaria,350.0,2,224,Rio de Janeiro,RJ
+1335,2025-03-09 01:00:00,Perfume Aurora,Perfumaria,150.0,3,180,Porto Alegre,RS
+1336,2025-03-09 19:00:00,Condicionador Luxo,Banho,59.46,4,210,São Paulo,SP
+1337,2025-03-09 04:00:00,Gloss Crystal,Maquiagem,50.0,8,230,Rio de Janeiro,RJ
+1338,2025-03-09 19:00:00,Batom Matte,Maquiagem,85.0,5,245,Rio de Janeiro,RJ
+1339,2025-03-09 21:00:00,Condicionador Luxo,Banho,58.61,3,229,Porto Alegre,RS
+1340,2025-03-10 07:00:00,Perfume Elegance,Perfumaria,350.0,8,109,São Luís,MA
+1341,2025-03-10 01:00:00,Base Lux,Maquiagem,80.0,6,182,São Paulo,SP
+1342,2025-03-10 22:00:00,Base Lux,Maquiagem,80.0,7,193,Porto Alegre,RS
+1343,2025-03-10 16:00:00,Condicionador Luxo,Banho,54.39,2,198,Belém,PA
+1344,2025-03-10 04:00:00,Perfume Elegance,Perfumaria,350.0,6,195,São Paulo,SP
+1345,2025-03-11 08:00:00,Base Lux,Maquiagem,80.0,1,139,São Paulo,SP
+1346,2025-03-11 21:00:00,Base Lux,Maquiagem,80.0,7,191,Belém,PA
+1347,2025-03-11 23:00:00,Perfume Aurora,Perfumaria,150.0,7,119,Manaus,AM
+1348,2025-03-11 11:00:00,Perfume Bloom,Perfumaria,100.0,9,239,Rio de Janeiro,RJ
+1349,2025-03-11 11:00:00,Batom Matte,Maquiagem,85.0,7,172,São Luís,MA
+1350,2025-03-12 19:00:00,Esfoliante Premium,Banho,47.24,9,155,São Paulo,SP
+1351,2025-03-12 11:00:00,Perfume Aurora,Perfumaria,150.0,6,236,Belém,PA
+1352,2025-03-12 05:00:00,Perfume Elegance,Perfumaria,350.0,2,210,Manaus,AM
+1353,2025-03-12 07:00:00,Batom Matte,Maquiagem,85.0,5,107,Manaus,AM
+1354,2025-03-12 19:00:00,Condicionador Luxo,Banho,56.08,7,232,Salvador,BA
+1355,2025-03-13 17:00:00,Perfume Aurora,Perfumaria,150.0,3,227,Manaus,AM
+1356,2025-03-13 16:00:00,Esfoliante Premium,Banho,45.56,2,198,Belo Horizonte,MG
+1357,2025-03-13 11:00:00,Perfume Aurora,Perfumaria,150.0,5,154,Porto Alegre,RS
+1358,2025-03-13 20:00:00,Perfume Aurora,Perfumaria,150.0,8,113,Salvador,BA
+1359,2025-03-13 03:00:00,Perfume Elegance,Perfumaria,350.0,4,143,Porto Alegre,RS
+1360,2025-03-14 04:00:00,Esfoliante Premium,Banho,48.21,9,142,São Paulo,SP
+1361,2025-03-14 11:00:00,Perfume Elegance,Perfumaria,350.0,5,184,Fortaleza,CE
+1362,2025-03-14 09:00:00,Perfume Aurora,Perfumaria,150.0,4,190,São Paulo,SP
+1363,2025-03-14 06:00:00,Base Lux,Maquiagem,80.0,6,150,Rio de Janeiro,RJ
+1364,2025-03-14 19:00:00,Base Lux,Maquiagem,80.0,9,167,São Luís,MA
+1365,2025-03-15 05:00:00,Base Lux,Maquiagem,80.0,4,123,Curitiba,PR
+1366,2025-03-15 09:00:00,Perfume Bloom,Perfumaria,100.0,8,203,São Paulo,SP
+1367,2025-03-15 21:00:00,Base Lux,Maquiagem,80.0,2,135,Salvador,BA
+1368,2025-03-15 04:00:00,Perfume Bloom,Perfumaria,100.0,8,107,Fortaleza,CE
+1369,2025-03-15 20:00:00,Perfume Elegance,Perfumaria,350.0,8,125,Rio de Janeiro,RJ
+1370,2025-03-16 06:00:00,Perfume Aurora,Perfumaria,150.0,6,188,São Paulo,SP
+1371,2025-03-16 16:00:00,Perfume Elegance,Perfumaria,350.0,1,218,Belo Horizonte,MG
+1372,2025-03-16 10:00:00,Batom Matte,Maquiagem,85.0,1,234,Salvador,BA
+1373,2025-03-16 15:00:00,Base Lux,Maquiagem,80.0,1,209,Belém,PA
+1374,2025-03-16 21:00:00,Gloss Crystal,Maquiagem,50.0,9,164,Manaus,AM
+1375,2025-03-17 10:00:00,Esfoliante Premium,Banho,46.68,6,233,Curitiba,PR
+1376,2025-03-17 18:00:00,Batom Matte,Maquiagem,85.0,1,179,Fortaleza,CE
+1377,2025-03-17 13:00:00,Esfoliante Premium,Banho,49.83,5,130,Porto Alegre,RS
+1378,2025-03-17 21:00:00,Base Lux,Maquiagem,80.0,6,129,Belém,PA
+1379,2025-03-17 23:00:00,Batom Matte,Maquiagem,85.0,9,245,Belém,PA
+1380,2025-03-18 18:00:00,Condicionador Luxo,Banho,55.35,7,177,Belo Horizonte,MG
+1381,2025-03-18 07:00:00,Gloss Crystal,Maquiagem,50.0,1,182,Rio de Janeiro,RJ
+1382,2025-03-18 02:00:00,Perfume Bloom,Perfumaria,100.0,2,169,Rio de Janeiro,RJ
+1383,2025-03-18 07:00:00,Gloss Crystal,Maquiagem,50.0,8,104,Belém,PA
+1384,2025-03-18 07:00:00,Gloss Crystal,Maquiagem,50.0,7,229,Fortaleza,CE
+1385,2025-03-19 06:00:00,Perfume Bloom,Perfumaria,100.0,6,203,Porto Alegre,RS
+1386,2025-03-19 04:00:00,Esfoliante Premium,Banho,47.66,2,238,São Luís,MA
+1387,2025-03-19 15:00:00,Batom Matte,Maquiagem,85.0,2,202,Rio de Janeiro,RJ
+1388,2025-03-19 08:00:00,Perfume Elegance,Perfumaria,350.0,1,150,Belém,PA
+1389,2025-03-19 16:00:00,Batom Matte,Maquiagem,85.0,9,142,Belém,PA
+1390,2025-03-20 08:00:00,Perfume Bloom,Perfumaria,100.0,9,118,Belo Horizonte,MG
+1391,2025-03-20 02:00:00,Perfume Elegance,Perfumaria,350.0,4,166,Rio de Janeiro,RJ
+1392,2025-03-20 19:00:00,Condicionador Luxo,Banho,59.28,8,189,Curitiba,PR
+1393,2025-03-20 06:00:00,Perfume Bloom,Perfumaria,100.0,6,193,Porto Alegre,RS
+1394,2025-03-20 01:00:00,Base Lux,Maquiagem,80.0,7,155,São Luís,MA
+1395,2025-03-21 07:00:00,Batom Matte,Maquiagem,85.0,3,215,São Paulo,SP
+1396,2025-03-21 22:00:00,Perfume Aurora,Perfumaria,150.0,3,196,Manaus,AM
+1397,2025-03-21 17:00:00,Condicionador Luxo,Banho,55.43,9,117,Curitiba,PR
+1398,2025-03-21 02:00:00,Batom Matte,Maquiagem,85.0,6,187,São Paulo,SP
+1399,2025-03-21 19:00:00,Esfoliante Premium,Banho,48.27,1,156,Manaus,AM
+1400,2025-03-22 06:00:00,Batom Matte,Maquiagem,85.0,9,176,Porto Alegre,RS
+1401,2025-03-22 13:00:00,Esfoliante Premium,Banho,48.1,3,187,Belo Horizonte,MG
+1402,2025-03-22 15:00:00,Perfume Aurora,Perfumaria,150.0,9,196,Belém,PA
+1403,2025-03-22 08:00:00,Perfume Elegance,Perfumaria,350.0,4,213,Belo Horizonte,MG
+1404,2025-03-22 12:00:00,Batom Matte,Maquiagem,85.0,4,162,Curitiba,PR
+1405,2025-03-23 23:00:00,Perfume Aurora,Perfumaria,150.0,7,248,Fortaleza,CE
+1406,2025-03-23 19:00:00,Perfume Aurora,Perfumaria,150.0,5,194,São Paulo,SP
+1407,2025-03-23 09:00:00,Condicionador Luxo,Banho,55.75,7,129,São Paulo,SP
+1408,2025-03-23 18:00:00,Batom Matte,Maquiagem,85.0,3,154,Salvador,BA
+1409,2025-03-23 09:00:00,Batom Matte,Maquiagem,85.0,1,215,Fortaleza,CE
+1410,2025-03-24 00:00:00,Condicionador Luxo,Banho,55.61,8,102,Manaus,AM
+1411,2025-03-24 15:00:00,Gloss Crystal,Maquiagem,50.0,3,185,Porto Alegre,RS
+1412,2025-03-24 15:00:00,Base Lux,Maquiagem,80.0,1,222,Salvador,BA
+1413,2025-03-24 21:00:00,Gloss Crystal,Maquiagem,50.0,1,150,Porto Alegre,RS
+1414,2025-03-24 12:00:00,Gloss Crystal,Maquiagem,50.0,1,117,Fortaleza,CE
+1415,2025-03-25 13:00:00,Perfume Aurora,Perfumaria,150.0,7,210,Belo Horizonte,MG
+1416,2025-03-25 15:00:00,Base Lux,Maquiagem,80.0,6,159,São Luís,MA
+1417,2025-03-25 20:00:00,Perfume Bloom,Perfumaria,100.0,7,245,Salvador,BA
+1418,2025-03-25 04:00:00,Batom Matte,Maquiagem,85.0,9,104,Curitiba,PR
+1419,2025-03-25 17:00:00,Batom Matte,Maquiagem,85.0,8,182,Curitiba,PR
+1420,2025-03-26 22:00:00,Perfume Bloom,Perfumaria,100.0,8,193,Belém,PA
+1421,2025-03-26 14:00:00,Gloss Crystal,Maquiagem,50.0,8,231,Salvador,BA
+1422,2025-03-26 05:00:00,Perfume Aurora,Perfumaria,150.0,4,126,São Paulo,SP
+1423,2025-03-26 19:00:00,Perfume Aurora,Perfumaria,150.0,5,183,Rio de Janeiro,RJ
+1424,2025-03-26 12:00:00,Batom Matte,Maquiagem,85.0,5,162,Belém,PA
+1425,2025-03-27 13:00:00,Base Lux,Maquiagem,80.0,2,143,Fortaleza,CE
+1426,2025-03-27 22:00:00,Gloss Crystal,Maquiagem,50.0,1,147,Belém,PA
+1427,2025-03-27 08:00:00,Esfoliante Premium,Banho,48.46,3,209,Manaus,AM
+1428,2025-03-27 15:00:00,Perfume Elegance,Perfumaria,350.0,7,117,Fortaleza,CE
+1429,2025-03-27 02:00:00,Perfume Bloom,Perfumaria,100.0,6,154,Belo Horizonte,MG
+1430,2025-03-28 21:00:00,Perfume Aurora,Perfumaria,150.0,2,244,Fortaleza,CE
+1431,2025-03-28 11:00:00,Perfume Elegance,Perfumaria,350.0,6,233,Rio de Janeiro,RJ
+1432,2025-03-28 15:00:00,Batom Matte,Maquiagem,85.0,6,211,Curitiba,PR
+1433,2025-03-28 15:00:00,Gloss Crystal,Maquiagem,50.0,4,126,Rio de Janeiro,RJ
+1434,2025-03-28 05:00:00,Base Lux,Maquiagem,80.0,4,103,Belém,PA
+1435,2025-03-29 00:00:00,Condicionador Luxo,Banho,56.87,5,239,Porto Alegre,RS
+1436,2025-03-29 11:00:00,Gloss Crystal,Maquiagem,50.0,9,237,Curitiba,PR
+1437,2025-03-29 09:00:00,Base Lux,Maquiagem,80.0,5,109,Curitiba,PR
+1438,2025-03-29 16:00:00,Perfume Elegance,Perfumaria,350.0,5,159,São Paulo,SP
+1439,2025-03-29 04:00:00,Perfume Bloom,Perfumaria,100.0,2,173,Salvador,BA
+1440,2025-03-30 19:00:00,Condicionador Luxo,Banho,57.02,5,110,Salvador,BA
+1441,2025-03-30 14:00:00,Perfume Aurora,Perfumaria,150.0,3,161,Belém,PA
+1442,2025-03-30 19:00:00,Gloss Crystal,Maquiagem,50.0,1,170,Manaus,AM
+1443,2025-03-30 23:00:00,Condicionador Luxo,Banho,59.41,9,174,Fortaleza,CE
+1444,2025-03-30 03:00:00,Base Lux,Maquiagem,80.0,6,189,Porto Alegre,RS
+1445,2025-03-31 16:00:00,Condicionador Luxo,Banho,55.88,3,183,Fortaleza,CE
+1446,2025-03-31 00:00:00,Base Lux,Maquiagem,80.0,6,115,Rio de Janeiro,RJ
+1447,2025-03-31 05:00:00,Perfume Bloom,Perfumaria,100.0,4,200,Rio de Janeiro,RJ
+1448,2025-03-31 18:00:00,Batom Matte,Maquiagem,85.0,1,142,Manaus,AM
+1449,2025-03-31 22:00:00,Perfume Elegance,Perfumaria,350.0,3,235,Belém,PA
+1450,2025-04-01 02:00:00,Esfoliante Premium,Banho,47.81,2,103,Rio de Janeiro,RJ
+1451,2025-04-01 23:00:00,Esfoliante Premium,Banho,45.34,4,118,São Luís,MA
+1452,2025-04-01 15:00:00,Perfume Bloom,Perfumaria,100.0,8,176,Manaus,AM
+1453,2025-04-01 21:00:00,Gloss Crystal,Maquiagem,50.0,2,122,Curitiba,PR
+1454,2025-04-01 07:00:00,Perfume Aurora,Perfumaria,150.0,8,196,Belo Horizonte,MG
+1455,2025-04-02 01:00:00,Gloss Crystal,Maquiagem,50.0,8,168,Belém,PA
+1456,2025-04-02 09:00:00,Base Lux,Maquiagem,80.0,4,100,Belo Horizonte,MG
+1457,2025-04-02 07:00:00,Gloss Crystal,Maquiagem,50.0,2,231,Salvador,BA
+1458,2025-04-02 15:00:00,Perfume Elegance,Perfumaria,350.0,6,190,Manaus,AM
+1459,2025-04-02 21:00:00,Perfume Bloom,Perfumaria,100.0,1,225,Rio de Janeiro,RJ
+1460,2025-04-03 14:00:00,Perfume Elegance,Perfumaria,350.0,8,152,Rio de Janeiro,RJ
+1461,2025-04-03 12:00:00,Gloss Crystal,Maquiagem,50.0,5,202,São Paulo,SP
+1462,2025-04-03 02:00:00,Perfume Bloom,Perfumaria,100.0,1,148,Fortaleza,CE
+1463,2025-04-03 01:00:00,Gloss Crystal,Maquiagem,50.0,7,172,Salvador,BA
+1464,2025-04-03 13:00:00,Batom Matte,Maquiagem,85.0,4,139,São Luís,MA
+1465,2025-04-04 04:00:00,Batom Matte,Maquiagem,85.0,3,109,Manaus,AM
+1466,2025-04-04 10:00:00,Condicionador Luxo,Banho,55.41,7,133,Porto Alegre,RS
+1467,2025-04-04 07:00:00,Perfume Elegance,Perfumaria,350.0,3,114,Manaus,AM
+1468,2025-04-04 13:00:00,Perfume Elegance,Perfumaria,350.0,6,194,Belém,PA
+1469,2025-04-04 10:00:00,Condicionador Luxo,Banho,54.78,2,120,Fortaleza,CE
+1470,2025-04-05 22:00:00,Base Lux,Maquiagem,80.0,6,231,Belo Horizonte,MG
+1471,2025-04-05 18:00:00,Condicionador Luxo,Banho,55.26,3,173,Salvador,BA
+1472,2025-04-05 19:00:00,Base Lux,Maquiagem,80.0,3,203,Manaus,AM
+1473,2025-04-05 19:00:00,Batom Matte,Maquiagem,85.0,2,172,Salvador,BA
+1474,2025-04-05 12:00:00,Gloss Crystal,Maquiagem,50.0,2,150,Fortaleza,CE
+1475,2025-04-06 07:00:00,Esfoliante Premium,Banho,48.16,9,118,Porto Alegre,RS
+1476,2025-04-06 02:00:00,Base Lux,Maquiagem,80.0,5,196,Porto Alegre,RS
+1477,2025-04-06 21:00:00,Condicionador Luxo,Banho,58.86,4,163,Porto Alegre,RS
+1478,2025-04-06 08:00:00,Perfume Aurora,Perfumaria,150.0,5,101,Fortaleza,CE
+1479,2025-04-06 01:00:00,Batom Matte,Maquiagem,85.0,8,245,Belém,PA
+1480,2025-04-07 02:00:00,Base Lux,Maquiagem,80.0,5,210,Manaus,AM
+1481,2025-04-07 21:00:00,Gloss Crystal,Maquiagem,50.0,1,178,Salvador,BA
+1482,2025-04-07 04:00:00,Base Lux,Maquiagem,80.0,1,212,São Paulo,SP
+1483,2025-04-07 07:00:00,Perfume Elegance,Perfumaria,350.0,5,203,São Paulo,SP
+1484,2025-04-07 18:00:00,Perfume Aurora,Perfumaria,150.0,9,165,Belo Horizonte,MG
+1485,2025-04-08 23:00:00,Condicionador Luxo,Banho,54.6,8,121,Belo Horizonte,MG
+1486,2025-04-08 16:00:00,Perfume Bloom,Perfumaria,100.0,4,155,Fortaleza,CE
+1487,2025-04-08 08:00:00,Batom Matte,Maquiagem,85.0,9,178,Belo Horizonte,MG
+1488,2025-04-08 10:00:00,Perfume Elegance,Perfumaria,350.0,5,145,Manaus,AM
+1489,2025-04-08 21:00:00,Perfume Aurora,Perfumaria,150.0,2,213,Belo Horizonte,MG
+1490,2025-04-09 20:00:00,Batom Matte,Maquiagem,85.0,8,156,Belo Horizonte,MG
+1491,2025-04-09 10:00:00,Base Lux,Maquiagem,80.0,4,119,Manaus,AM
+1492,2025-04-09 22:00:00,Esfoliante Premium,Banho,46.87,2,235,Rio de Janeiro,RJ
+1493,2025-04-09 02:00:00,Esfoliante Premium,Banho,49.72,6,115,Salvador,BA
+1494,2025-04-09 13:00:00,Perfume Bloom,Perfumaria,100.0,9,112,Fortaleza,CE
+1495,2025-04-10 06:00:00,Perfume Elegance,Perfumaria,350.0,9,113,Porto Alegre,RS
+1496,2025-04-10 05:00:00,Esfoliante Premium,Banho,48.56,5,196,São Luís,MA
+1497,2025-04-10 17:00:00,Condicionador Luxo,Banho,58.74,6,227,Manaus,AM
+1498,2025-04-10 01:00:00,Perfume Bloom,Perfumaria,100.0,1,240,São Luís,MA
+1499,2025-04-10 20:00:00,Condicionador Luxo,Banho,55.2,9,133,São Paulo,SP
+1500,2025-04-11 17:00:00,Perfume Aurora,Perfumaria,150.0,3,159,Salvador,BA
+1501,2025-04-11 17:00:00,Perfume Elegance,Perfumaria,350.0,9,201,Belém,PA
+1502,2025-04-11 22:00:00,Perfume Elegance,Perfumaria,350.0,5,153,São Luís,MA
+1503,2025-04-11 00:00:00,Base Lux,Maquiagem,80.0,6,174,Fortaleza,CE
+1504,2025-04-11 04:00:00,Base Lux,Maquiagem,80.0,2,243,Belém,PA
+1505,2025-04-12 10:00:00,Perfume Aurora,Perfumaria,150.0,4,226,Belém,PA
+1506,2025-04-12 20:00:00,Condicionador Luxo,Banho,57.26,5,112,Fortaleza,CE
+1507,2025-04-12 14:00:00,Perfume Aurora,Perfumaria,150.0,1,133,Curitiba,PR
+1508,2025-04-12 13:00:00,Perfume Aurora,Perfumaria,150.0,3,214,Salvador,BA
+1509,2025-04-12 10:00:00,Perfume Bloom,Perfumaria,100.0,1,236,Porto Alegre,RS
+1510,2025-04-13 21:00:00,Perfume Elegance,Perfumaria,350.0,6,189,Belo Horizonte,MG
+1511,2025-04-13 14:00:00,Batom Matte,Maquiagem,85.0,3,126,Belém,PA
+1512,2025-04-13 17:00:00,Base Lux,Maquiagem,80.0,6,193,Salvador,BA
+1513,2025-04-13 18:00:00,Condicionador Luxo,Banho,55.33,6,142,Rio de Janeiro,RJ
+1514,2025-04-13 02:00:00,Condicionador Luxo,Banho,54.46,4,112,Rio de Janeiro,RJ
+1515,2025-04-14 09:00:00,Perfume Elegance,Perfumaria,350.0,4,118,Belém,PA
+1516,2025-04-14 11:00:00,Perfume Aurora,Perfumaria,150.0,5,169,São Luís,MA
+1517,2025-04-14 23:00:00,Base Lux,Maquiagem,80.0,3,216,Porto Alegre,RS
+1518,2025-04-14 12:00:00,Esfoliante Premium,Banho,46.33,7,109,Curitiba,PR
+1519,2025-04-14 22:00:00,Perfume Aurora,Perfumaria,150.0,9,100,São Luís,MA
+1520,2025-04-15 11:00:00,Gloss Crystal,Maquiagem,50.0,3,147,Curitiba,PR
+1521,2025-04-15 19:00:00,Base Lux,Maquiagem,80.0,2,102,Curitiba,PR
+1522,2025-04-15 15:00:00,Perfume Aurora,Perfumaria,150.0,2,138,Manaus,AM
+1523,2025-04-15 11:00:00,Perfume Bloom,Perfumaria,100.0,7,203,Belo Horizonte,MG
+1524,2025-04-15 07:00:00,Gloss Crystal,Maquiagem,50.0,1,109,Porto Alegre,RS
+1525,2025-04-16 01:00:00,Gloss Crystal,Maquiagem,50.0,7,198,Belém,PA
+1526,2025-04-16 12:00:00,Base Lux,Maquiagem,80.0,2,246,Belém,PA
+1527,2025-04-16 00:00:00,Base Lux,Maquiagem,80.0,1,139,São Luís,MA
+1528,2025-04-16 09:00:00,Perfume Bloom,Perfumaria,100.0,7,153,Rio de Janeiro,RJ
+1529,2025-04-16 10:00:00,Esfoliante Premium,Banho,49.49,3,206,São Luís,MA
+1530,2025-04-17 02:00:00,Esfoliante Premium,Banho,48.76,3,152,Manaus,AM
+1531,2025-04-17 15:00:00,Esfoliante Premium,Banho,46.65,9,173,Curitiba,PR
+1532,2025-04-17 19:00:00,Condicionador Luxo,Banho,58.08,6,126,São Paulo,SP
+1533,2025-04-17 09:00:00,Gloss Crystal,Maquiagem,50.0,8,115,Fortaleza,CE
+1534,2025-04-17 01:00:00,Perfume Bloom,Perfumaria,100.0,9,176,São Luís,MA
+1535,2025-04-18 08:00:00,Gloss Crystal,Maquiagem,50.0,5,181,Belém,PA
+1536,2025-04-18 20:00:00,Condicionador Luxo,Banho,59.65,1,139,Curitiba,PR
+1537,2025-04-18 10:00:00,Perfume Elegance,Perfumaria,350.0,7,129,Fortaleza,CE
+1538,2025-04-18 23:00:00,Condicionador Luxo,Banho,59.12,3,153,São Luís,MA
+1539,2025-04-18 04:00:00,Perfume Elegance,Perfumaria,350.0,3,192,Salvador,BA
+1540,2025-04-19 11:00:00,Base Lux,Maquiagem,80.0,5,158,Rio de Janeiro,RJ
+1541,2025-04-19 04:00:00,Perfume Bloom,Perfumaria,100.0,8,223,Porto Alegre,RS
+1542,2025-04-19 20:00:00,Batom Matte,Maquiagem,85.0,2,107,Porto Alegre,RS
+1543,2025-04-19 21:00:00,Esfoliante Premium,Banho,48.66,9,187,São Paulo,SP
+1544,2025-04-19 08:00:00,Gloss Crystal,Maquiagem,50.0,6,169,Fortaleza,CE
+1545,2025-04-20 22:00:00,Base Lux,Maquiagem,80.0,4,117,São Luís,MA
+1546,2025-04-20 20:00:00,Base Lux,Maquiagem,80.0,4,142,Porto Alegre,RS
+1547,2025-04-20 00:00:00,Perfume Elegance,Perfumaria,350.0,9,242,São Paulo,SP
+1548,2025-04-20 06:00:00,Perfume Aurora,Perfumaria,150.0,3,220,Fortaleza,CE
+1549,2025-04-20 18:00:00,Batom Matte,Maquiagem,85.0,2,149,São Luís,MA
+1550,2025-04-21 09:00:00,Gloss Crystal,Maquiagem,50.0,1,118,Salvador,BA
+1551,2025-04-21 05:00:00,Perfume Aurora,Perfumaria,150.0,9,229,São Paulo,SP
+1552,2025-04-21 13:00:00,Condicionador Luxo,Banho,57.37,7,178,São Luís,MA
+1553,2025-04-21 16:00:00,Perfume Bloom,Perfumaria,100.0,7,207,São Luís,MA
+1554,2025-04-21 06:00:00,Gloss Crystal,Maquiagem,50.0,8,151,Belo Horizonte,MG
+1555,2025-04-22 13:00:00,Perfume Elegance,Perfumaria,350.0,4,214,Manaus,AM
+1556,2025-04-22 06:00:00,Perfume Aurora,Perfumaria,150.0,2,131,Manaus,AM
+1557,2025-04-22 06:00:00,Perfume Bloom,Perfumaria,100.0,9,147,Belo Horizonte,MG
+1558,2025-04-22 19:00:00,Perfume Bloom,Perfumaria,100.0,6,214,Manaus,AM
+1559,2025-04-22 02:00:00,Condicionador Luxo,Banho,59.18,2,177,São Luís,MA
+1560,2025-04-23 15:00:00,Gloss Crystal,Maquiagem,50.0,1,128,Curitiba,PR
+1561,2025-04-23 21:00:00,Perfume Bloom,Perfumaria,100.0,1,114,Porto Alegre,RS
+1562,2025-04-23 03:00:00,Condicionador Luxo,Banho,59.61,5,124,Rio de Janeiro,RJ
+1563,2025-04-23 10:00:00,Batom Matte,Maquiagem,85.0,2,110,Curitiba,PR
+1564,2025-04-23 15:00:00,Batom Matte,Maquiagem,85.0,3,132,Porto Alegre,RS
+1565,2025-04-24 03:00:00,Perfume Bloom,Perfumaria,100.0,8,111,São Luís,MA
+1566,2025-04-24 14:00:00,Perfume Elegance,Perfumaria,350.0,1,157,Porto Alegre,RS
+1567,2025-04-24 14:00:00,Base Lux,Maquiagem,80.0,4,139,São Paulo,SP
+1568,2025-04-24 05:00:00,Perfume Elegance,Perfumaria,350.0,2,104,Belo Horizonte,MG
+1569,2025-04-24 04:00:00,Gloss Crystal,Maquiagem,50.0,1,143,Manaus,AM
+1570,2025-04-25 06:00:00,Perfume Bloom,Perfumaria,100.0,6,174,São Luís,MA
+1571,2025-04-25 02:00:00,Base Lux,Maquiagem,80.0,5,237,Belém,PA
+1572,2025-04-25 06:00:00,Base Lux,Maquiagem,80.0,3,103,São Paulo,SP
+1573,2025-04-25 01:00:00,Gloss Crystal,Maquiagem,50.0,8,144,Salvador,BA
+1574,2025-04-25 08:00:00,Perfume Bloom,Perfumaria,100.0,6,213,São Paulo,SP
+1575,2025-04-26 00:00:00,Gloss Crystal,Maquiagem,50.0,9,150,Salvador,BA
+1576,2025-04-26 13:00:00,Perfume Aurora,Perfumaria,150.0,4,176,São Paulo,SP
+1577,2025-04-26 08:00:00,Base Lux,Maquiagem,80.0,6,154,Rio de Janeiro,RJ
+1578,2025-04-26 13:00:00,Perfume Elegance,Perfumaria,350.0,2,153,São Luís,MA
+1579,2025-04-26 14:00:00,Perfume Bloom,Perfumaria,100.0,6,167,São Paulo,SP
+1580,2025-04-27 01:00:00,Gloss Crystal,Maquiagem,50.0,4,128,Manaus,AM
+1581,2025-04-27 16:00:00,Batom Matte,Maquiagem,85.0,1,120,São Paulo,SP
+1582,2025-04-27 11:00:00,Perfume Elegance,Perfumaria,350.0,9,174,Porto Alegre,RS
+1583,2025-04-27 18:00:00,Gloss Crystal,Maquiagem,50.0,4,167,Salvador,BA
+1584,2025-04-27 10:00:00,Perfume Elegance,Perfumaria,350.0,6,101,Salvador,BA
+1585,2025-04-28 18:00:00,Perfume Aurora,Perfumaria,150.0,3,230,Fortaleza,CE
+1586,2025-04-28 09:00:00,Gloss Crystal,Maquiagem,50.0,7,145,São Paulo,SP
+1587,2025-04-28 12:00:00,Batom Matte,Maquiagem,85.0,6,122,Manaus,AM
+1588,2025-04-28 08:00:00,Esfoliante Premium,Banho,46.57,1,220,Porto Alegre,RS
+1589,2025-04-28 17:00:00,Base Lux,Maquiagem,80.0,1,184,Belo Horizonte,MG
+1590,2025-04-29 08:00:00,Perfume Bloom,Perfumaria,100.0,3,107,Belém,PA
+1591,2025-04-29 12:00:00,Esfoliante Premium,Banho,49.5,5,183,Salvador,BA
+1592,2025-04-29 17:00:00,Perfume Elegance,Perfumaria,350.0,4,103,Fortaleza,CE
+1593,2025-04-29 18:00:00,Esfoliante Premium,Banho,45.3,1,125,Rio de Janeiro,RJ
+1594,2025-04-29 10:00:00,Perfume Elegance,Perfumaria,350.0,7,231,Belo Horizonte,MG
+1595,2025-04-30 06:00:00,Perfume Elegance,Perfumaria,350.0,1,211,Fortaleza,CE
+1596,2025-04-30 07:00:00,Condicionador Luxo,Banho,54.75,7,114,Curitiba,PR
+1597,2025-04-30 13:00:00,Batom Matte,Maquiagem,85.0,3,169,Salvador,BA
+1598,2025-04-30 14:00:00,Condicionador Luxo,Banho,58.57,4,123,Belo Horizonte,MG
+1599,2025-04-30 05:00:00,Condicionador Luxo,Banho,55.27,6,138,Rio de Janeiro,RJ
+1600,2025-05-01 07:00:00,Base Lux,Maquiagem,80.0,2,195,Salvador,BA
+1601,2025-05-01 15:00:00,Gloss Crystal,Maquiagem,50.0,3,173,Rio de Janeiro,RJ
+1602,2025-05-01 20:00:00,Condicionador Luxo,Banho,58.01,8,122,Salvador,BA
+1603,2025-05-01 15:00:00,Base Lux,Maquiagem,80.0,3,209,Curitiba,PR
+1604,2025-05-01 18:00:00,Base Lux,Maquiagem,80.0,4,121,São Paulo,SP
+1605,2025-05-02 16:00:00,Condicionador Luxo,Banho,56.41,6,174,Belo Horizonte,MG
+1606,2025-05-02 02:00:00,Perfume Aurora,Perfumaria,150.0,5,232,São Paulo,SP
+1607,2025-05-02 15:00:00,Gloss Crystal,Maquiagem,50.0,6,164,Porto Alegre,RS
+1608,2025-05-02 14:00:00,Base Lux,Maquiagem,80.0,6,234,São Paulo,SP
+1609,2025-05-02 07:00:00,Base Lux,Maquiagem,80.0,8,177,São Paulo,SP
+1610,2025-05-03 00:00:00,Gloss Crystal,Maquiagem,50.0,4,125,Belo Horizonte,MG
+1611,2025-05-03 00:00:00,Condicionador Luxo,Banho,55.67,2,124,Belo Horizonte,MG
+1612,2025-05-03 15:00:00,Perfume Bloom,Perfumaria,100.0,8,159,Manaus,AM
+1613,2025-05-03 07:00:00,Gloss Crystal,Maquiagem,50.0,2,170,São Paulo,SP
+1614,2025-05-03 04:00:00,Gloss Crystal,Maquiagem,50.0,6,154,São Paulo,SP
+1615,2025-05-04 09:00:00,Base Lux,Maquiagem,80.0,1,217,Belo Horizonte,MG
+1616,2025-05-04 13:00:00,Perfume Bloom,Perfumaria,100.0,6,228,Salvador,BA
+1617,2025-05-04 22:00:00,Perfume Bloom,Perfumaria,100.0,1,201,Rio de Janeiro,RJ
+1618,2025-05-04 19:00:00,Gloss Crystal,Maquiagem,50.0,6,218,Salvador,BA
+1619,2025-05-04 09:00:00,Gloss Crystal,Maquiagem,50.0,3,156,Belo Horizonte,MG
+1620,2025-05-05 03:00:00,Base Lux,Maquiagem,80.0,3,204,Porto Alegre,RS
+1621,2025-05-05 09:00:00,Base Lux,Maquiagem,80.0,6,131,São Paulo,SP
+1622,2025-05-05 05:00:00,Gloss Crystal,Maquiagem,50.0,7,211,Belém,PA
+1623,2025-05-05 08:00:00,Perfume Bloom,Perfumaria,100.0,4,180,São Luís,MA
+1624,2025-05-05 15:00:00,Gloss Crystal,Maquiagem,50.0,5,148,Porto Alegre,RS
+1625,2025-05-06 02:00:00,Perfume Bloom,Perfumaria,100.0,3,193,São Paulo,SP
+1626,2025-05-06 15:00:00,Batom Matte,Maquiagem,85.0,4,133,São Luís,MA
+1627,2025-05-06 23:00:00,Perfume Elegance,Perfumaria,350.0,8,214,Porto Alegre,RS
+1628,2025-05-06 16:00:00,Perfume Bloom,Perfumaria,100.0,2,108,Belo Horizonte,MG
+1629,2025-05-06 04:00:00,Base Lux,Maquiagem,80.0,6,246,Belo Horizonte,MG
+1630,2025-05-07 11:00:00,Gloss Crystal,Maquiagem,50.0,9,135,São Paulo,SP
+1631,2025-05-07 15:00:00,Perfume Elegance,Perfumaria,350.0,8,232,Salvador,BA
+1632,2025-05-07 13:00:00,Condicionador Luxo,Banho,54.14,8,136,Manaus,AM
+1633,2025-05-07 13:00:00,Esfoliante Premium,Banho,46.98,1,130,Belo Horizonte,MG
+1634,2025-05-07 20:00:00,Perfume Bloom,Perfumaria,100.0,5,173,Manaus,AM
+1635,2025-05-08 02:00:00,Perfume Bloom,Perfumaria,100.0,1,150,Rio de Janeiro,RJ
+1636,2025-05-08 17:00:00,Esfoliante Premium,Banho,49.62,7,119,Curitiba,PR
+1637,2025-05-08 12:00:00,Batom Matte,Maquiagem,85.0,1,245,Belo Horizonte,MG
+1638,2025-05-08 00:00:00,Batom Matte,Maquiagem,85.0,2,145,Fortaleza,CE
+1639,2025-05-08 11:00:00,Gloss Crystal,Maquiagem,50.0,8,206,Belo Horizonte,MG
+1640,2025-05-09 19:00:00,Batom Matte,Maquiagem,85.0,4,109,Salvador,BA
+1641,2025-05-09 15:00:00,Perfume Elegance,Perfumaria,350.0,3,206,Manaus,AM
+1642,2025-05-09 09:00:00,Perfume Elegance,Perfumaria,350.0,6,109,Rio de Janeiro,RJ
+1643,2025-05-09 06:00:00,Batom Matte,Maquiagem,85.0,3,201,Rio de Janeiro,RJ
+1644,2025-05-09 16:00:00,Condicionador Luxo,Banho,55.05,9,139,São Luís,MA
+1645,2025-05-10 00:00:00,Batom Matte,Maquiagem,85.0,7,171,Manaus,AM
+1646,2025-05-10 11:00:00,Condicionador Luxo,Banho,59.26,9,226,Manaus,AM
+1647,2025-05-10 09:00:00,Batom Matte,Maquiagem,85.0,3,114,Belo Horizonte,MG
+1648,2025-05-10 08:00:00,Perfume Bloom,Perfumaria,100.0,6,126,Fortaleza,CE
+1649,2025-05-10 09:00:00,Batom Matte,Maquiagem,85.0,4,196,Rio de Janeiro,RJ
+1650,2025-05-11 17:00:00,Gloss Crystal,Maquiagem,50.0,4,192,Fortaleza,CE
+1651,2025-05-11 08:00:00,Perfume Bloom,Perfumaria,100.0,1,149,Rio de Janeiro,RJ
+1652,2025-05-11 11:00:00,Batom Matte,Maquiagem,85.0,6,222,Rio de Janeiro,RJ
+1653,2025-05-11 18:00:00,Perfume Aurora,Perfumaria,150.0,5,198,São Luís,MA
+1654,2025-05-11 06:00:00,Batom Matte,Maquiagem,85.0,8,203,Rio de Janeiro,RJ
+1655,2025-05-12 03:00:00,Perfume Aurora,Perfumaria,150.0,9,176,Belém,PA
+1656,2025-05-12 15:00:00,Batom Matte,Maquiagem,85.0,6,110,Salvador,BA
+1657,2025-05-12 01:00:00,Esfoliante Premium,Banho,48.76,1,138,Belo Horizonte,MG
+1658,2025-05-12 18:00:00,Esfoliante Premium,Banho,48.33,1,104,Salvador,BA
+1659,2025-05-12 03:00:00,Perfume Aurora,Perfumaria,150.0,7,243,Belo Horizonte,MG
+1660,2025-05-13 21:00:00,Gloss Crystal,Maquiagem,50.0,1,189,Porto Alegre,RS
+1661,2025-05-13 01:00:00,Gloss Crystal,Maquiagem,50.0,3,154,Manaus,AM
+1662,2025-05-13 15:00:00,Esfoliante Premium,Banho,47.51,5,155,Rio de Janeiro,RJ
+1663,2025-05-13 05:00:00,Esfoliante Premium,Banho,49.42,1,142,São Luís,MA
+1664,2025-05-13 05:00:00,Perfume Elegance,Perfumaria,350.0,3,198,Fortaleza,CE
+1665,2025-05-14 05:00:00,Batom Matte,Maquiagem,85.0,6,233,Curitiba,PR
+1666,2025-05-14 04:00:00,Batom Matte,Maquiagem,85.0,8,128,Rio de Janeiro,RJ
+1667,2025-05-14 21:00:00,Esfoliante Premium,Banho,48.52,6,249,Porto Alegre,RS
+1668,2025-05-14 18:00:00,Esfoliante Premium,Banho,49.7,9,169,Porto Alegre,RS
+1669,2025-05-14 01:00:00,Condicionador Luxo,Banho,55.6,5,179,Fortaleza,CE
+1670,2025-05-15 04:00:00,Esfoliante Premium,Banho,47.4,2,160,Fortaleza,CE
+1671,2025-05-15 00:00:00,Condicionador Luxo,Banho,56.3,7,154,São Luís,MA
+1672,2025-05-15 20:00:00,Perfume Aurora,Perfumaria,150.0,6,125,São Luís,MA
+1673,2025-05-15 20:00:00,Esfoliante Premium,Banho,47.36,7,110,Manaus,AM
+1674,2025-05-15 15:00:00,Perfume Aurora,Perfumaria,150.0,6,141,São Luís,MA
+1675,2025-05-16 14:00:00,Batom Matte,Maquiagem,85.0,8,249,São Paulo,SP
+1676,2025-05-16 07:00:00,Condicionador Luxo,Banho,59.32,5,103,Belo Horizonte,MG
+1677,2025-05-16 01:00:00,Batom Matte,Maquiagem,85.0,8,124,Salvador,BA
+1678,2025-05-16 04:00:00,Gloss Crystal,Maquiagem,50.0,6,165,Rio de Janeiro,RJ
+1679,2025-05-16 08:00:00,Perfume Bloom,Perfumaria,100.0,4,246,Porto Alegre,RS
+1680,2025-05-17 17:00:00,Perfume Bloom,Perfumaria,100.0,7,230,Belém,PA
+1681,2025-05-17 13:00:00,Perfume Bloom,Perfumaria,100.0,2,106,São Luís,MA
+1682,2025-05-17 23:00:00,Base Lux,Maquiagem,80.0,7,217,Curitiba,PR
+1683,2025-05-17 10:00:00,Condicionador Luxo,Banho,55.67,3,158,Manaus,AM
+1684,2025-05-17 10:00:00,Esfoliante Premium,Banho,49.46,8,152,Fortaleza,CE
+1685,2025-05-18 23:00:00,Perfume Bloom,Perfumaria,100.0,6,187,Porto Alegre,RS
+1686,2025-05-18 14:00:00,Perfume Aurora,Perfumaria,150.0,9,115,Belém,PA
+1687,2025-05-18 16:00:00,Base Lux,Maquiagem,80.0,9,143,Rio de Janeiro,RJ
+1688,2025-05-18 17:00:00,Perfume Aurora,Perfumaria,150.0,2,110,Porto Alegre,RS
+1689,2025-05-18 01:00:00,Batom Matte,Maquiagem,85.0,7,128,Fortaleza,CE
+1690,2025-05-19 17:00:00,Base Lux,Maquiagem,80.0,7,166,Manaus,AM
+1691,2025-05-19 18:00:00,Perfume Bloom,Perfumaria,100.0,9,231,Porto Alegre,RS
+1692,2025-05-19 05:00:00,Batom Matte,Maquiagem,85.0,8,184,Fortaleza,CE
+1693,2025-05-19 22:00:00,Esfoliante Premium,Banho,47.86,6,172,Belo Horizonte,MG
+1694,2025-05-19 01:00:00,Perfume Elegance,Perfumaria,350.0,2,172,São Luís,MA
+1695,2025-05-20 13:00:00,Batom Matte,Maquiagem,85.0,9,131,Fortaleza,CE
+1696,2025-05-20 13:00:00,Condicionador Luxo,Banho,55.01,3,119,São Luís,MA
+1697,2025-05-20 03:00:00,Base Lux,Maquiagem,80.0,4,130,São Luís,MA
+1698,2025-05-20 16:00:00,Perfume Bloom,Perfumaria,100.0,7,206,Curitiba,PR
+1699,2025-05-20 10:00:00,Perfume Aurora,Perfumaria,150.0,7,102,São Luís,MA
+1700,2025-05-21 22:00:00,Batom Matte,Maquiagem,85.0,2,100,Manaus,AM
+1701,2025-05-21 06:00:00,Condicionador Luxo,Banho,56.88,6,234,Porto Alegre,RS
+1702,2025-05-21 04:00:00,Condicionador Luxo,Banho,55.52,7,196,Manaus,AM
+1703,2025-05-21 12:00:00,Gloss Crystal,Maquiagem,50.0,8,185,Belo Horizonte,MG
+1704,2025-05-21 20:00:00,Perfume Elegance,Perfumaria,350.0,9,229,Salvador,BA
+1705,2025-05-22 05:00:00,Base Lux,Maquiagem,80.0,6,133,São Paulo,SP
+1706,2025-05-22 04:00:00,Gloss Crystal,Maquiagem,50.0,4,115,Rio de Janeiro,RJ
+1707,2025-05-22 19:00:00,Batom Matte,Maquiagem,85.0,3,137,Curitiba,PR
+1708,2025-05-22 16:00:00,Batom Matte,Maquiagem,85.0,5,117,Belo Horizonte,MG
+1709,2025-05-22 02:00:00,Perfume Bloom,Perfumaria,100.0,1,128,Curitiba,PR
+1710,2025-05-23 11:00:00,Condicionador Luxo,Banho,54.07,7,185,Rio de Janeiro,RJ
+1711,2025-05-23 18:00:00,Gloss Crystal,Maquiagem,50.0,4,179,Manaus,AM
+1712,2025-05-23 21:00:00,Batom Matte,Maquiagem,85.0,2,153,São Luís,MA
+1713,2025-05-23 16:00:00,Condicionador Luxo,Banho,57.19,2,179,São Paulo,SP
+1714,2025-05-23 10:00:00,Perfume Elegance,Perfumaria,350.0,2,241,Porto Alegre,RS
+1715,2025-05-24 14:00:00,Gloss Crystal,Maquiagem,50.0,4,162,São Paulo,SP
+1716,2025-05-24 15:00:00,Perfume Bloom,Perfumaria,100.0,5,104,São Paulo,SP
+1717,2025-05-24 04:00:00,Base Lux,Maquiagem,80.0,9,180,Porto Alegre,RS
+1718,2025-05-24 16:00:00,Perfume Aurora,Perfumaria,150.0,9,120,Belo Horizonte,MG
+1719,2025-05-24 07:00:00,Perfume Elegance,Perfumaria,350.0,2,118,Rio de Janeiro,RJ
+1720,2025-05-25 05:00:00,Gloss Crystal,Maquiagem,50.0,3,185,Porto Alegre,RS
+1721,2025-05-25 16:00:00,Perfume Elegance,Perfumaria,350.0,8,240,Curitiba,PR
+1722,2025-05-25 22:00:00,Perfume Bloom,Perfumaria,100.0,8,169,Rio de Janeiro,RJ
+1723,2025-05-25 00:00:00,Batom Matte,Maquiagem,85.0,3,248,Rio de Janeiro,RJ
+1724,2025-05-25 03:00:00,Perfume Aurora,Perfumaria,150.0,7,191,Manaus,AM
+1725,2025-05-26 23:00:00,Perfume Aurora,Perfumaria,150.0,6,133,Manaus,AM
+1726,2025-05-26 17:00:00,Perfume Elegance,Perfumaria,350.0,2,151,São Luís,MA
+1727,2025-05-26 14:00:00,Esfoliante Premium,Banho,47.01,6,188,Manaus,AM
+1728,2025-05-26 08:00:00,Perfume Aurora,Perfumaria,150.0,1,234,Belém,PA
+1729,2025-05-26 19:00:00,Batom Matte,Maquiagem,85.0,5,157,Belo Horizonte,MG
+1730,2025-05-27 23:00:00,Esfoliante Premium,Banho,46.69,7,185,Salvador,BA
+1731,2025-05-27 03:00:00,Condicionador Luxo,Banho,58.89,6,167,Rio de Janeiro,RJ
+1732,2025-05-27 07:00:00,Perfume Aurora,Perfumaria,150.0,4,249,Fortaleza,CE
+1733,2025-05-27 17:00:00,Batom Matte,Maquiagem,85.0,4,186,Manaus,AM
+1734,2025-05-27 16:00:00,Esfoliante Premium,Banho,46.79,6,198,São Luís,MA
+1735,2025-05-28 06:00:00,Batom Matte,Maquiagem,85.0,7,249,Curitiba,PR
+1736,2025-05-28 03:00:00,Esfoliante Premium,Banho,46.05,2,167,São Paulo,SP
+1737,2025-05-28 01:00:00,Perfume Elegance,Perfumaria,350.0,1,239,Curitiba,PR
+1738,2025-05-28 15:00:00,Condicionador Luxo,Banho,55.26,6,174,Belém,PA
+1739,2025-05-28 10:00:00,Perfume Aurora,Perfumaria,150.0,1,222,Porto Alegre,RS
+1740,2025-05-29 02:00:00,Gloss Crystal,Maquiagem,50.0,5,105,Belo Horizonte,MG
+1741,2025-05-29 20:00:00,Perfume Aurora,Perfumaria,150.0,9,201,Belo Horizonte,MG
+1742,2025-05-29 00:00:00,Gloss Crystal,Maquiagem,50.0,3,114,São Paulo,SP
+1743,2025-05-29 04:00:00,Gloss Crystal,Maquiagem,50.0,6,220,Porto Alegre,RS
+1744,2025-05-29 07:00:00,Perfume Elegance,Perfumaria,350.0,5,196,São Paulo,SP
+1745,2025-05-30 20:00:00,Base Lux,Maquiagem,80.0,9,150,Fortaleza,CE
+1746,2025-05-30 12:00:00,Base Lux,Maquiagem,80.0,8,203,Porto Alegre,RS
+1747,2025-05-30 11:00:00,Perfume Elegance,Perfumaria,350.0,6,127,Belo Horizonte,MG
+1748,2025-05-30 17:00:00,Batom Matte,Maquiagem,85.0,9,173,Salvador,BA
+1749,2025-05-30 02:00:00,Perfume Bloom,Perfumaria,100.0,9,138,Manaus,AM
+1750,2025-05-31 07:00:00,Batom Matte,Maquiagem,85.0,1,146,Curitiba,PR
+1751,2025-05-31 03:00:00,Esfoliante Premium,Banho,46.04,6,117,São Luís,MA
+1752,2025-05-31 04:00:00,Perfume Aurora,Perfumaria,150.0,9,152,Belo Horizonte,MG
+1753,2025-05-31 22:00:00,Batom Matte,Maquiagem,85.0,1,216,Belém,PA
+1754,2025-05-31 01:00:00,Perfume Aurora,Perfumaria,150.0,8,155,Belo Horizonte,MG
+1755,2025-06-01 15:00:00,Gloss Crystal,Maquiagem,50.0,3,107,São Paulo,SP
+1756,2025-06-01 14:00:00,Batom Matte,Maquiagem,85.0,7,157,Manaus,AM
+1757,2025-06-01 09:00:00,Perfume Bloom,Perfumaria,100.0,1,224,Rio de Janeiro,RJ
+1758,2025-06-01 03:00:00,Perfume Bloom,Perfumaria,100.0,5,108,Fortaleza,CE
+1759,2025-06-01 04:00:00,Esfoliante Premium,Banho,46.25,6,213,Belém,PA
+1760,2025-06-02 22:00:00,Perfume Bloom,Perfumaria,100.0,8,246,Manaus,AM
+1761,2025-06-02 15:00:00,Gloss Crystal,Maquiagem,50.0,9,197,São Luís,MA
+1762,2025-06-02 04:00:00,Perfume Aurora,Perfumaria,150.0,1,114,Manaus,AM
+1763,2025-06-02 08:00:00,Esfoliante Premium,Banho,45.82,9,248,Fortaleza,CE
+1764,2025-06-02 13:00:00,Gloss Crystal,Maquiagem,50.0,4,215,Belo Horizonte,MG
+1765,2025-06-03 01:00:00,Perfume Elegance,Perfumaria,350.0,5,210,São Paulo,SP
+1766,2025-06-03 19:00:00,Perfume Bloom,Perfumaria,100.0,1,155,Porto Alegre,RS
+1767,2025-06-03 15:00:00,Base Lux,Maquiagem,80.0,1,241,Belém,PA
+1768,2025-06-03 01:00:00,Perfume Bloom,Perfumaria,100.0,6,138,São Luís,MA
+1769,2025-06-03 11:00:00,Perfume Bloom,Perfumaria,100.0,6,181,Curitiba,PR
+1770,2025-06-04 03:00:00,Perfume Bloom,Perfumaria,100.0,7,196,Fortaleza,CE
+1771,2025-06-04 01:00:00,Esfoliante Premium,Banho,46.48,4,138,Salvador,BA
+1772,2025-06-04 13:00:00,Condicionador Luxo,Banho,56.15,1,102,São Luís,MA
+1773,2025-06-04 19:00:00,Gloss Crystal,Maquiagem,50.0,9,204,Curitiba,PR
+1774,2025-06-04 12:00:00,Gloss Crystal,Maquiagem,50.0,9,157,Curitiba,PR
+1775,2025-06-05 01:00:00,Gloss Crystal,Maquiagem,50.0,1,198,Salvador,BA
+1776,2025-06-05 08:00:00,Gloss Crystal,Maquiagem,50.0,7,178,São Paulo,SP
+1777,2025-06-05 02:00:00,Perfume Aurora,Perfumaria,150.0,8,210,Belém,PA
+1778,2025-06-05 17:00:00,Batom Matte,Maquiagem,85.0,8,171,São Luís,MA
+1779,2025-06-05 15:00:00,Perfume Elegance,Perfumaria,350.0,9,163,Rio de Janeiro,RJ
+1780,2025-06-06 16:00:00,Perfume Elegance,Perfumaria,350.0,9,108,São Luís,MA
+1781,2025-06-06 17:00:00,Perfume Elegance,Perfumaria,350.0,1,113,São Paulo,SP
+1782,2025-06-06 00:00:00,Perfume Aurora,Perfumaria,150.0,4,213,Curitiba,PR
+1783,2025-06-06 20:00:00,Perfume Bloom,Perfumaria,100.0,7,195,Belo Horizonte,MG
+1784,2025-06-06 07:00:00,Base Lux,Maquiagem,80.0,5,205,Fortaleza,CE
+1785,2025-06-07 11:00:00,Perfume Aurora,Perfumaria,150.0,5,139,Rio de Janeiro,RJ
+1786,2025-06-07 03:00:00,Condicionador Luxo,Banho,54.78,3,177,Porto Alegre,RS
+1787,2025-06-07 04:00:00,Base Lux,Maquiagem,80.0,9,118,Fortaleza,CE
+1788,2025-06-07 15:00:00,Batom Matte,Maquiagem,85.0,9,164,Salvador,BA
+1789,2025-06-07 15:00:00,Esfoliante Premium,Banho,46.01,7,165,Fortaleza,CE
+1790,2025-06-08 10:00:00,Condicionador Luxo,Banho,54.08,9,147,São Luís,MA
+1791,2025-06-08 20:00:00,Perfume Elegance,Perfumaria,350.0,3,165,Belo Horizonte,MG
+1792,2025-06-08 20:00:00,Base Lux,Maquiagem,80.0,4,243,São Luís,MA
+1793,2025-06-08 10:00:00,Perfume Aurora,Perfumaria,150.0,5,141,Curitiba,PR
+1794,2025-06-08 09:00:00,Gloss Crystal,Maquiagem,50.0,3,154,Salvador,BA
+1795,2025-06-09 01:00:00,Perfume Bloom,Perfumaria,100.0,9,124,São Paulo,SP
+1796,2025-06-09 08:00:00,Perfume Bloom,Perfumaria,100.0,5,123,Rio de Janeiro,RJ
+1797,2025-06-09 21:00:00,Esfoliante Premium,Banho,46.26,2,162,São Luís,MA
+1798,2025-06-09 09:00:00,Condicionador Luxo,Banho,58.12,5,135,Porto Alegre,RS
+1799,2025-06-09 00:00:00,Base Lux,Maquiagem,80.0,4,190,Fortaleza,CE
+1800,2025-06-10 16:00:00,Condicionador Luxo,Banho,57.5,6,175,Manaus,AM
+1801,2025-06-10 13:00:00,Gloss Crystal,Maquiagem,50.0,9,177,Curitiba,PR
+1802,2025-06-10 05:00:00,Gloss Crystal,Maquiagem,50.0,9,207,Porto Alegre,RS
+1803,2025-06-10 14:00:00,Perfume Aurora,Perfumaria,150.0,3,212,Manaus,AM
+1804,2025-06-10 21:00:00,Gloss Crystal,Maquiagem,50.0,2,151,São Paulo,SP
+1805,2025-06-11 01:00:00,Condicionador Luxo,Banho,59.35,3,206,Rio de Janeiro,RJ
+1806,2025-06-11 00:00:00,Perfume Elegance,Perfumaria,350.0,9,233,Rio de Janeiro,RJ
+1807,2025-06-11 13:00:00,Base Lux,Maquiagem,80.0,7,152,Belém,PA
+1808,2025-06-11 21:00:00,Esfoliante Premium,Banho,46.08,7,108,Salvador,BA
+1809,2025-06-11 20:00:00,Condicionador Luxo,Banho,58.92,2,108,Porto Alegre,RS
+1810,2025-06-12 21:00:00,Esfoliante Premium,Banho,49.53,9,140,Porto Alegre,RS
+1811,2025-06-12 02:00:00,Perfume Aurora,Perfumaria,150.0,9,145,Porto Alegre,RS
+1812,2025-06-12 16:00:00,Perfume Bloom,Perfumaria,100.0,4,139,Curitiba,PR
+1813,2025-06-12 07:00:00,Batom Matte,Maquiagem,85.0,7,214,São Paulo,SP
+1814,2025-06-12 07:00:00,Perfume Elegance,Perfumaria,350.0,3,126,Salvador,BA
+1815,2025-06-13 17:00:00,Gloss Crystal,Maquiagem,50.0,2,143,Rio de Janeiro,RJ
+1816,2025-06-13 21:00:00,Esfoliante Premium,Banho,47.95,1,111,São Paulo,SP
+1817,2025-06-13 01:00:00,Perfume Bloom,Perfumaria,100.0,8,197,Belo Horizonte,MG
+1818,2025-06-13 12:00:00,Perfume Aurora,Perfumaria,150.0,9,120,Salvador,BA
+1819,2025-06-13 07:00:00,Gloss Crystal,Maquiagem,50.0,1,146,Belo Horizonte,MG
+1820,2025-06-14 15:00:00,Condicionador Luxo,Banho,56.0,8,113,Belém,PA
+1821,2025-06-14 13:00:00,Condicionador Luxo,Banho,55.89,3,115,Salvador,BA
+1822,2025-06-14 09:00:00,Base Lux,Maquiagem,80.0,7,162,Fortaleza,CE
+1823,2025-06-14 09:00:00,Perfume Elegance,Perfumaria,350.0,1,176,Salvador,BA
+1824,2025-06-14 17:00:00,Batom Matte,Maquiagem,85.0,5,232,Salvador,BA
+1825,2025-06-15 16:00:00,Perfume Elegance,Perfumaria,350.0,6,212,Belém,PA
+1826,2025-06-15 11:00:00,Perfume Aurora,Perfumaria,150.0,7,225,São Luís,MA
+1827,2025-06-15 19:00:00,Condicionador Luxo,Banho,57.95,4,249,Belém,PA
+1828,2025-06-15 07:00:00,Perfume Bloom,Perfumaria,100.0,1,128,Rio de Janeiro,RJ
+1829,2025-06-15 04:00:00,Perfume Bloom,Perfumaria,100.0,4,224,São Luís,MA
+1830,2025-06-16 14:00:00,Condicionador Luxo,Banho,56.66,7,119,Manaus,AM
+1831,2025-06-16 21:00:00,Gloss Crystal,Maquiagem,50.0,5,117,Porto Alegre,RS
+1832,2025-06-16 23:00:00,Esfoliante Premium,Banho,49.05,6,211,São Paulo,SP
+1833,2025-06-16 00:00:00,Perfume Elegance,Perfumaria,350.0,7,146,Fortaleza,CE
+1834,2025-06-16 21:00:00,Perfume Elegance,Perfumaria,350.0,9,116,Salvador,BA
+1835,2025-06-17 07:00:00,Base Lux,Maquiagem,80.0,6,124,Salvador,BA
+1836,2025-06-17 09:00:00,Gloss Crystal,Maquiagem,50.0,3,108,Belém,PA
+1837,2025-06-17 20:00:00,Batom Matte,Maquiagem,85.0,1,135,Rio de Janeiro,RJ
+1838,2025-06-17 01:00:00,Perfume Aurora,Perfumaria,150.0,7,106,Manaus,AM
+1839,2025-06-17 00:00:00,Perfume Elegance,Perfumaria,350.0,2,240,Curitiba,PR
+1840,2025-06-18 06:00:00,Perfume Elegance,Perfumaria,350.0,2,221,Fortaleza,CE
+1841,2025-06-18 15:00:00,Perfume Elegance,Perfumaria,350.0,7,168,Salvador,BA
+1842,2025-06-18 00:00:00,Batom Matte,Maquiagem,85.0,5,226,Porto Alegre,RS
+1843,2025-06-18 16:00:00,Esfoliante Premium,Banho,45.99,5,113,Belém,PA
+1844,2025-06-18 12:00:00,Perfume Bloom,Perfumaria,100.0,2,207,Manaus,AM
+1845,2025-06-19 16:00:00,Perfume Bloom,Perfumaria,100.0,1,173,Belém,PA
+1846,2025-06-19 04:00:00,Gloss Crystal,Maquiagem,50.0,5,124,Fortaleza,CE
+1847,2025-06-19 04:00:00,Base Lux,Maquiagem,80.0,9,105,Salvador,BA
+1848,2025-06-19 02:00:00,Perfume Bloom,Perfumaria,100.0,4,247,Porto Alegre,RS
+1849,2025-06-19 00:00:00,Perfume Elegance,Perfumaria,350.0,8,175,Salvador,BA
+1850,2025-06-20 15:00:00,Batom Matte,Maquiagem,85.0,1,169,Rio de Janeiro,RJ
+1851,2025-06-20 14:00:00,Perfume Bloom,Perfumaria,100.0,1,109,Curitiba,PR
+1852,2025-06-20 19:00:00,Gloss Crystal,Maquiagem,50.0,4,214,Manaus,AM
+1853,2025-06-20 01:00:00,Condicionador Luxo,Banho,55.75,8,183,Belém,PA
+1854,2025-06-20 13:00:00,Base Lux,Maquiagem,80.0,2,112,Salvador,BA
+1855,2025-06-21 12:00:00,Base Lux,Maquiagem,80.0,9,164,Manaus,AM
+1856,2025-06-21 20:00:00,Batom Matte,Maquiagem,85.0,5,151,Fortaleza,CE
+1857,2025-06-21 00:00:00,Condicionador Luxo,Banho,56.09,1,193,Curitiba,PR
+1858,2025-06-21 01:00:00,Perfume Elegance,Perfumaria,350.0,4,129,Belo Horizonte,MG
+1859,2025-06-21 15:00:00,Perfume Elegance,Perfumaria,350.0,9,107,Rio de Janeiro,RJ
+1860,2025-06-22 02:00:00,Batom Matte,Maquiagem,85.0,3,197,São Luís,MA
+1861,2025-06-22 10:00:00,Batom Matte,Maquiagem,85.0,4,245,São Luís,MA
+1862,2025-06-22 23:00:00,Perfume Elegance,Perfumaria,350.0,1,214,Belo Horizonte,MG
+1863,2025-06-22 11:00:00,Perfume Bloom,Perfumaria,100.0,9,151,São Paulo,SP
+1864,2025-06-22 21:00:00,Condicionador Luxo,Banho,54.08,8,231,Rio de Janeiro,RJ
+1865,2025-06-23 12:00:00,Condicionador Luxo,Banho,58.85,7,243,Porto Alegre,RS
+1866,2025-06-23 19:00:00,Esfoliante Premium,Banho,45.16,1,113,Curitiba,PR
+1867,2025-06-23 13:00:00,Perfume Elegance,Perfumaria,350.0,8,161,Rio de Janeiro,RJ
+1868,2025-06-23 21:00:00,Esfoliante Premium,Banho,49.19,5,231,São Luís,MA
+1869,2025-06-23 10:00:00,Esfoliante Premium,Banho,45.69,8,212,Rio de Janeiro,RJ
+1870,2025-06-24 09:00:00,Condicionador Luxo,Banho,55.93,8,209,Belém,PA
+1871,2025-06-24 23:00:00,Batom Matte,Maquiagem,85.0,1,135,Curitiba,PR
+1872,2025-06-24 10:00:00,Batom Matte,Maquiagem,85.0,5,142,São Paulo,SP
+1873,2025-06-24 06:00:00,Base Lux,Maquiagem,80.0,6,214,Curitiba,PR
+1874,2025-06-24 22:00:00,Base Lux,Maquiagem,80.0,3,124,São Paulo,SP
+1875,2025-06-25 00:00:00,Gloss Crystal,Maquiagem,50.0,9,233,Curitiba,PR
+1876,2025-06-25 02:00:00,Perfume Aurora,Perfumaria,150.0,8,116,Manaus,AM
+1877,2025-06-25 08:00:00,Perfume Elegance,Perfumaria,350.0,8,147,Belo Horizonte,MG
+1878,2025-06-25 13:00:00,Esfoliante Premium,Banho,48.47,8,230,Belo Horizonte,MG
+1879,2025-06-25 10:00:00,Base Lux,Maquiagem,80.0,6,234,Porto Alegre,RS
+1880,2025-06-26 14:00:00,Perfume Bloom,Perfumaria,100.0,5,118,Belo Horizonte,MG
+1881,2025-06-26 19:00:00,Gloss Crystal,Maquiagem,50.0,1,145,Salvador,BA
+1882,2025-06-26 19:00:00,Esfoliante Premium,Banho,48.5,9,196,Manaus,AM
+1883,2025-06-26 13:00:00,Perfume Bloom,Perfumaria,100.0,9,126,Manaus,AM
+1884,2025-06-26 12:00:00,Perfume Elegance,Perfumaria,350.0,8,156,Salvador,BA
+1885,2025-06-27 13:00:00,Condicionador Luxo,Banho,54.8,8,145,Belo Horizonte,MG
+1886,2025-06-27 16:00:00,Batom Matte,Maquiagem,85.0,9,179,Rio de Janeiro,RJ
+1887,2025-06-27 20:00:00,Perfume Aurora,Perfumaria,150.0,3,114,Belém,PA
+1888,2025-06-27 02:00:00,Condicionador Luxo,Banho,54.2,8,225,Salvador,BA
+1889,2025-06-27 20:00:00,Perfume Elegance,Perfumaria,350.0,5,226,Belém,PA
+1890,2025-06-28 18:00:00,Condicionador Luxo,Banho,57.1,8,213,Salvador,BA
+1891,2025-06-28 06:00:00,Base Lux,Maquiagem,80.0,3,104,Salvador,BA
+1892,2025-06-28 03:00:00,Gloss Crystal,Maquiagem,50.0,4,211,Manaus,AM
+1893,2025-06-28 14:00:00,Batom Matte,Maquiagem,85.0,9,222,Porto Alegre,RS
+1894,2025-06-28 04:00:00,Batom Matte,Maquiagem,85.0,6,234,Curitiba,PR
+1895,2025-06-29 23:00:00,Condicionador Luxo,Banho,55.71,2,105,Belém,PA
+1896,2025-06-29 00:00:00,Condicionador Luxo,Banho,57.84,8,240,Salvador,BA
+1897,2025-06-29 14:00:00,Gloss Crystal,Maquiagem,50.0,8,119,Fortaleza,CE
+1898,2025-06-29 08:00:00,Perfume Aurora,Perfumaria,150.0,6,115,São Paulo,SP
+1899,2025-06-29 11:00:00,Batom Matte,Maquiagem,85.0,8,158,Belém,PA
+1900,2025-06-30 16:00:00,Batom Matte,Maquiagem,85.0,8,116,Manaus,AM
+1901,2025-06-30 02:00:00,Batom Matte,Maquiagem,85.0,4,149,Belo Horizonte,MG
+1902,2025-06-30 07:00:00,Batom Matte,Maquiagem,85.0,3,194,São Paulo,SP
+1903,2025-06-30 15:00:00,Perfume Aurora,Perfumaria,150.0,8,207,São Luís,MA
+1904,2025-06-30 23:00:00,Esfoliante Premium,Banho,48.96,6,171,Belém,PA
+1905,2025-07-01 09:00:00,Gloss Crystal,Maquiagem,50.0,3,145,Porto Alegre,RS
+1906,2025-07-01 23:00:00,Batom Matte,Maquiagem,85.0,4,170,Curitiba,PR
+1907,2025-07-01 03:00:00,Gloss Crystal,Maquiagem,50.0,5,100,Belo Horizonte,MG
+1908,2025-07-01 06:00:00,Perfume Elegance,Perfumaria,350.0,9,234,Fortaleza,CE
+1909,2025-07-01 23:00:00,Base Lux,Maquiagem,80.0,1,118,Belo Horizonte,MG
+1910,2025-07-02 21:00:00,Condicionador Luxo,Banho,57.44,8,129,Belém,PA
+1911,2025-07-02 15:00:00,Esfoliante Premium,Banho,48.75,9,156,Porto Alegre,RS
+1912,2025-07-02 03:00:00,Perfume Elegance,Perfumaria,350.0,8,107,São Paulo,SP
+1913,2025-07-02 18:00:00,Perfume Elegance,Perfumaria,350.0,5,190,Belém,PA
+1914,2025-07-02 07:00:00,Perfume Bloom,Perfumaria,100.0,3,236,Rio de Janeiro,RJ
+1915,2025-07-03 03:00:00,Base Lux,Maquiagem,80.0,9,229,Belém,PA
+1916,2025-07-03 03:00:00,Condicionador Luxo,Banho,58.63,8,128,Fortaleza,CE
+1917,2025-07-03 10:00:00,Gloss Crystal,Maquiagem,50.0,5,175,São Paulo,SP
+1918,2025-07-03 03:00:00,Gloss Crystal,Maquiagem,50.0,1,233,Curitiba,PR
+1919,2025-07-03 06:00:00,Batom Matte,Maquiagem,85.0,1,246,Rio de Janeiro,RJ
+1920,2025-07-04 00:00:00,Batom Matte,Maquiagem,85.0,5,139,Salvador,BA
+1921,2025-07-04 16:00:00,Gloss Crystal,Maquiagem,50.0,4,138,Curitiba,PR
+1922,2025-07-04 13:00:00,Base Lux,Maquiagem,80.0,7,109,Rio de Janeiro,RJ
+1923,2025-07-04 03:00:00,Gloss Crystal,Maquiagem,50.0,9,229,São Paulo,SP
+1924,2025-07-04 18:00:00,Esfoliante Premium,Banho,45.98,1,107,Salvador,BA
+1925,2025-07-05 20:00:00,Base Lux,Maquiagem,80.0,8,104,Porto Alegre,RS
+1926,2025-07-05 10:00:00,Condicionador Luxo,Banho,58.47,9,117,Rio de Janeiro,RJ
+1927,2025-07-05 13:00:00,Perfume Aurora,Perfumaria,150.0,4,118,Fortaleza,CE
+1928,2025-07-05 15:00:00,Base Lux,Maquiagem,80.0,6,173,Salvador,BA
+1929,2025-07-05 20:00:00,Batom Matte,Maquiagem,85.0,8,158,Porto Alegre,RS
+1930,2025-07-06 21:00:00,Gloss Crystal,Maquiagem,50.0,3,148,Salvador,BA
+1931,2025-07-06 02:00:00,Condicionador Luxo,Banho,58.46,7,155,Fortaleza,CE
+1932,2025-07-06 13:00:00,Condicionador Luxo,Banho,54.2,1,116,Curitiba,PR
+1933,2025-07-06 16:00:00,Perfume Elegance,Perfumaria,350.0,2,245,Curitiba,PR
+1934,2025-07-06 18:00:00,Perfume Bloom,Perfumaria,100.0,1,163,Fortaleza,CE
+1935,2025-07-07 17:00:00,Batom Matte,Maquiagem,85.0,3,120,São Paulo,SP
+1936,2025-07-07 17:00:00,Batom Matte,Maquiagem,85.0,6,225,São Paulo,SP
+1937,2025-07-07 02:00:00,Perfume Bloom,Perfumaria,100.0,5,231,Fortaleza,CE
+1938,2025-07-07 10:00:00,Condicionador Luxo,Banho,59.6,5,192,Curitiba,PR
+1939,2025-07-07 07:00:00,Gloss Crystal,Maquiagem,50.0,3,140,Rio de Janeiro,RJ
+1940,2025-07-08 02:00:00,Perfume Bloom,Perfumaria,100.0,6,149,São Luís,MA
+1941,2025-07-08 09:00:00,Base Lux,Maquiagem,80.0,3,222,Rio de Janeiro,RJ
+1942,2025-07-08 05:00:00,Batom Matte,Maquiagem,85.0,7,143,Rio de Janeiro,RJ
+1943,2025-07-08 18:00:00,Perfume Aurora,Perfumaria,150.0,5,216,Belém,PA
+1944,2025-07-08 08:00:00,Condicionador Luxo,Banho,58.69,8,107,Salvador,BA
+1945,2025-07-09 13:00:00,Perfume Elegance,Perfumaria,350.0,8,207,Belém,PA
+1946,2025-07-09 19:00:00,Esfoliante Premium,Banho,48.94,7,189,Porto Alegre,RS
+1947,2025-07-09 07:00:00,Perfume Elegance,Perfumaria,350.0,8,148,São Paulo,SP
+1948,2025-07-09 10:00:00,Esfoliante Premium,Banho,49.78,7,129,Belo Horizonte,MG
+1949,2025-07-09 13:00:00,Perfume Elegance,Perfumaria,350.0,5,106,Manaus,AM
+1950,2025-07-10 20:00:00,Gloss Crystal,Maquiagem,50.0,5,150,Manaus,AM
+1951,2025-07-10 23:00:00,Esfoliante Premium,Banho,46.36,1,206,Rio de Janeiro,RJ
+1952,2025-07-10 03:00:00,Perfume Aurora,Perfumaria,150.0,7,126,Belém,PA
+1953,2025-07-10 18:00:00,Perfume Elegance,Perfumaria,350.0,3,194,Rio de Janeiro,RJ
+1954,2025-07-10 01:00:00,Condicionador Luxo,Banho,59.58,4,148,São Paulo,SP
+1955,2025-07-11 02:00:00,Gloss Crystal,Maquiagem,50.0,8,218,Fortaleza,CE
+1956,2025-07-11 19:00:00,Perfume Elegance,Perfumaria,350.0,4,226,Salvador,BA
+1957,2025-07-11 10:00:00,Esfoliante Premium,Banho,47.7,1,214,Belém,PA
+1958,2025-07-11 08:00:00,Condicionador Luxo,Banho,57.64,8,218,Porto Alegre,RS
+1959,2025-07-11 13:00:00,Batom Matte,Maquiagem,85.0,6,183,São Luís,MA
+1960,2025-07-12 12:00:00,Perfume Bloom,Perfumaria,100.0,2,222,São Paulo,SP
+1961,2025-07-12 03:00:00,Perfume Aurora,Perfumaria,150.0,8,193,Belém,PA
+1962,2025-07-12 15:00:00,Perfume Bloom,Perfumaria,100.0,8,210,Belo Horizonte,MG
+1963,2025-07-12 20:00:00,Base Lux,Maquiagem,80.0,3,172,Belo Horizonte,MG
+1964,2025-07-12 07:00:00,Perfume Aurora,Perfumaria,150.0,9,196,Curitiba,PR
+1965,2025-07-13 04:00:00,Perfume Bloom,Perfumaria,100.0,5,144,Curitiba,PR
+1966,2025-07-13 09:00:00,Batom Matte,Maquiagem,85.0,7,214,São Luís,MA
+1967,2025-07-13 11:00:00,Condicionador Luxo,Banho,57.69,5,131,Belém,PA
+1968,2025-07-13 12:00:00,Condicionador Luxo,Banho,59.4,8,235,Salvador,BA
+1969,2025-07-13 18:00:00,Condicionador Luxo,Banho,56.3,6,227,Belém,PA
+1970,2025-07-14 12:00:00,Perfume Aurora,Perfumaria,150.0,3,146,São Luís,MA
+1971,2025-07-14 23:00:00,Gloss Crystal,Maquiagem,50.0,8,102,Salvador,BA
+1972,2025-07-14 00:00:00,Perfume Elegance,Perfumaria,350.0,2,119,São Paulo,SP
+1973,2025-07-14 09:00:00,Perfume Elegance,Perfumaria,350.0,4,242,Rio de Janeiro,RJ
+1974,2025-07-14 07:00:00,Condicionador Luxo,Banho,54.55,3,131,Porto Alegre,RS
+1975,2025-07-15 04:00:00,Perfume Aurora,Perfumaria,150.0,3,205,Belo Horizonte,MG
+1976,2025-07-15 04:00:00,Gloss Crystal,Maquiagem,50.0,8,129,São Luís,MA
+1977,2025-07-15 00:00:00,Condicionador Luxo,Banho,56.07,1,108,Rio de Janeiro,RJ
+1978,2025-07-15 15:00:00,Condicionador Luxo,Banho,57.82,4,204,Manaus,AM
+1979,2025-07-15 19:00:00,Condicionador Luxo,Banho,58.46,6,211,Salvador,BA
+1980,2025-07-16 14:00:00,Gloss Crystal,Maquiagem,50.0,1,182,São Luís,MA
+1981,2025-07-16 02:00:00,Perfume Aurora,Perfumaria,150.0,5,224,Rio de Janeiro,RJ
+1982,2025-07-16 09:00:00,Perfume Bloom,Perfumaria,100.0,8,140,Belém,PA
+1983,2025-07-16 15:00:00,Base Lux,Maquiagem,80.0,1,184,Belo Horizonte,MG
+1984,2025-07-16 17:00:00,Batom Matte,Maquiagem,85.0,4,186,Fortaleza,CE
+1985,2025-07-17 18:00:00,Esfoliante Premium,Banho,47.86,2,247,Rio de Janeiro,RJ
+1986,2025-07-17 23:00:00,Gloss Crystal,Maquiagem,50.0,1,185,Rio de Janeiro,RJ
+1987,2025-07-17 12:00:00,Base Lux,Maquiagem,80.0,6,119,Belo Horizonte,MG
+1988,2025-07-17 09:00:00,Batom Matte,Maquiagem,85.0,7,180,Rio de Janeiro,RJ
+1989,2025-07-17 04:00:00,Perfume Aurora,Perfumaria,150.0,2,113,São Paulo,SP
+1990,2025-07-18 17:00:00,Base Lux,Maquiagem,80.0,7,204,Porto Alegre,RS
+1991,2025-07-18 09:00:00,Condicionador Luxo,Banho,55.02,1,171,Rio de Janeiro,RJ
+1992,2025-07-18 13:00:00,Esfoliante Premium,Banho,48.97,4,237,Manaus,AM
+1993,2025-07-18 12:00:00,Base Lux,Maquiagem,80.0,5,128,Porto Alegre,RS
+1994,2025-07-18 20:00:00,Esfoliante Premium,Banho,47.33,2,214,Rio de Janeiro,RJ
+1995,2025-07-19 07:00:00,Esfoliante Premium,Banho,49.51,3,176,Belém,PA
+1996,2025-07-19 23:00:00,Condicionador Luxo,Banho,56.03,2,197,Manaus,AM
+1997,2025-07-19 04:00:00,Batom Matte,Maquiagem,85.0,1,131,Manaus,AM
+1998,2025-07-19 20:00:00,Perfume Bloom,Perfumaria,100.0,9,240,Salvador,BA
+1999,2025-07-19 05:00:00,Esfoliante Premium,Banho,48.01,9,158,São Luís,MA
+2000,2025-07-20 03:00:00,Batom Matte,Maquiagem,85.0,6,108,Rio de Janeiro,RJ
+2001,2025-07-20 03:00:00,Perfume Aurora,Perfumaria,150.0,8,243,Fortaleza,CE
+2002,2025-07-20 17:00:00,Perfume Aurora,Perfumaria,150.0,2,118,São Luís,MA
+2003,2025-07-20 05:00:00,Batom Matte,Maquiagem,85.0,8,227,São Luís,MA
+2004,2025-07-20 02:00:00,Perfume Aurora,Perfumaria,150.0,4,203,Belém,PA
+2005,2025-07-21 11:00:00,Base Lux,Maquiagem,80.0,7,136,Rio de Janeiro,RJ
+2006,2025-07-21 04:00:00,Perfume Elegance,Perfumaria,350.0,1,128,São Luís,MA
+2007,2025-07-21 00:00:00,Perfume Aurora,Perfumaria,150.0,1,173,São Luís,MA
+2008,2025-07-21 12:00:00,Gloss Crystal,Maquiagem,50.0,5,236,Belém,PA
+2009,2025-07-21 03:00:00,Base Lux,Maquiagem,80.0,9,110,São Luís,MA
+2010,2025-07-22 00:00:00,Perfume Bloom,Perfumaria,100.0,3,149,Porto Alegre,RS
+2011,2025-07-22 05:00:00,Perfume Elegance,Perfumaria,350.0,9,212,Curitiba,PR
+2012,2025-07-22 12:00:00,Condicionador Luxo,Banho,58.67,1,134,São Luís,MA
+2013,2025-07-22 23:00:00,Perfume Aurora,Perfumaria,150.0,2,157,Curitiba,PR
+2014,2025-07-22 10:00:00,Gloss Crystal,Maquiagem,50.0,2,164,Belo Horizonte,MG
+2015,2025-07-23 08:00:00,Perfume Elegance,Perfumaria,350.0,5,184,Salvador,BA
+2016,2025-07-23 04:00:00,Perfume Aurora,Perfumaria,150.0,3,105,Rio de Janeiro,RJ
+2017,2025-07-23 11:00:00,Perfume Elegance,Perfumaria,350.0,8,118,Porto Alegre,RS
+2018,2025-07-23 16:00:00,Perfume Aurora,Perfumaria,150.0,2,156,São Luís,MA
+2019,2025-07-23 22:00:00,Esfoliante Premium,Banho,45.25,8,217,Manaus,AM
+2020,2025-07-24 00:00:00,Esfoliante Premium,Banho,47.63,8,164,São Luís,MA
+2021,2025-07-24 14:00:00,Condicionador Luxo,Banho,58.84,3,212,Rio de Janeiro,RJ
+2022,2025-07-24 15:00:00,Base Lux,Maquiagem,80.0,3,199,São Paulo,SP
+2023,2025-07-24 20:00:00,Gloss Crystal,Maquiagem,50.0,3,149,Fortaleza,CE
+2024,2025-07-24 10:00:00,Perfume Bloom,Perfumaria,100.0,3,178,Curitiba,PR
+2025,2025-07-25 03:00:00,Perfume Aurora,Perfumaria,150.0,2,143,Belém,PA
+2026,2025-07-25 05:00:00,Gloss Crystal,Maquiagem,50.0,5,203,Porto Alegre,RS
+2027,2025-07-25 16:00:00,Batom Matte,Maquiagem,85.0,7,129,Manaus,AM
+2028,2025-07-25 17:00:00,Batom Matte,Maquiagem,85.0,3,147,Porto Alegre,RS
+2029,2025-07-25 12:00:00,Gloss Crystal,Maquiagem,50.0,3,142,São Luís,MA
+2030,2025-07-26 09:00:00,Esfoliante Premium,Banho,49.63,6,182,Curitiba,PR
+2031,2025-07-26 16:00:00,Esfoliante Premium,Banho,48.31,8,138,São Paulo,SP
+2032,2025-07-26 00:00:00,Esfoliante Premium,Banho,49.58,9,205,Porto Alegre,RS
+2033,2025-07-26 17:00:00,Condicionador Luxo,Banho,56.46,7,104,São Luís,MA
+2034,2025-07-26 05:00:00,Perfume Bloom,Perfumaria,100.0,7,128,Porto Alegre,RS
+2035,2025-07-27 07:00:00,Base Lux,Maquiagem,80.0,1,168,Fortaleza,CE
+2036,2025-07-27 09:00:00,Base Lux,Maquiagem,80.0,6,218,Salvador,BA
+2037,2025-07-27 16:00:00,Perfume Elegance,Perfumaria,350.0,6,111,Rio de Janeiro,RJ
+2038,2025-07-27 11:00:00,Perfume Aurora,Perfumaria,150.0,8,212,São Luís,MA
+2039,2025-07-27 05:00:00,Base Lux,Maquiagem,80.0,3,142,Belo Horizonte,MG
+2040,2025-07-28 04:00:00,Gloss Crystal,Maquiagem,50.0,4,224,Porto Alegre,RS
+2041,2025-07-28 02:00:00,Batom Matte,Maquiagem,85.0,7,210,Belo Horizonte,MG
+2042,2025-07-28 22:00:00,Base Lux,Maquiagem,80.0,3,102,São Paulo,SP
+2043,2025-07-28 12:00:00,Condicionador Luxo,Banho,56.25,2,240,Manaus,AM
+2044,2025-07-28 04:00:00,Perfume Bloom,Perfumaria,100.0,4,158,Manaus,AM
+2045,2025-07-29 21:00:00,Perfume Aurora,Perfumaria,150.0,9,169,Rio de Janeiro,RJ
+2046,2025-07-29 17:00:00,Gloss Crystal,Maquiagem,50.0,2,214,Rio de Janeiro,RJ
+2047,2025-07-29 16:00:00,Batom Matte,Maquiagem,85.0,2,240,Porto Alegre,RS
+2048,2025-07-29 07:00:00,Condicionador Luxo,Banho,60.0,5,149,Fortaleza,CE
+2049,2025-07-29 06:00:00,Batom Matte,Maquiagem,85.0,7,157,São Luís,MA
+2050,2025-07-30 14:00:00,Condicionador Luxo,Banho,55.07,2,245,Manaus,AM
+2051,2025-07-30 04:00:00,Esfoliante Premium,Banho,49.57,3,123,Belém,PA
+2052,2025-07-30 10:00:00,Perfume Elegance,Perfumaria,350.0,8,130,Salvador,BA
+2053,2025-07-30 13:00:00,Batom Matte,Maquiagem,85.0,2,167,São Luís,MA
+2054,2025-07-30 04:00:00,Batom Matte,Maquiagem,85.0,1,185,Rio de Janeiro,RJ
+2055,2025-07-31 05:00:00,Batom Matte,Maquiagem,85.0,6,218,Fortaleza,CE
+2056,2025-07-31 11:00:00,Perfume Elegance,Perfumaria,350.0,7,113,Belém,PA
+2057,2025-07-31 06:00:00,Esfoliante Premium,Banho,46.07,2,193,Manaus,AM
+2058,2025-07-31 03:00:00,Condicionador Luxo,Banho,55.59,5,150,Porto Alegre,RS
+2059,2025-07-31 01:00:00,Esfoliante Premium,Banho,45.76,1,224,Rio de Janeiro,RJ
+2060,2025-08-01 22:00:00,Condicionador Luxo,Banho,55.9,9,221,Rio de Janeiro,RJ
+2061,2025-08-01 23:00:00,Gloss Crystal,Maquiagem,50.0,2,169,Porto Alegre,RS
+2062,2025-08-01 09:00:00,Perfume Elegance,Perfumaria,350.0,8,214,Salvador,BA
+2063,2025-08-01 16:00:00,Batom Matte,Maquiagem,85.0,2,140,Salvador,BA
+2064,2025-08-01 10:00:00,Gloss Crystal,Maquiagem,50.0,9,100,Manaus,AM
+2065,2025-08-02 03:00:00,Esfoliante Premium,Banho,46.33,6,200,Porto Alegre,RS
+2066,2025-08-02 02:00:00,Gloss Crystal,Maquiagem,50.0,1,198,Salvador,BA
+2067,2025-08-02 03:00:00,Perfume Bloom,Perfumaria,100.0,7,148,São Luís,MA
+2068,2025-08-02 02:00:00,Esfoliante Premium,Banho,48.59,7,220,Salvador,BA
+2069,2025-08-02 00:00:00,Condicionador Luxo,Banho,55.51,5,133,São Luís,MA
+2070,2025-08-03 08:00:00,Esfoliante Premium,Banho,45.33,7,242,Porto Alegre,RS
+2071,2025-08-03 22:00:00,Esfoliante Premium,Banho,48.02,8,104,Salvador,BA
+2072,2025-08-03 13:00:00,Condicionador Luxo,Banho,55.32,2,111,Curitiba,PR
+2073,2025-08-03 03:00:00,Base Lux,Maquiagem,80.0,6,135,Fortaleza,CE
+2074,2025-08-03 09:00:00,Batom Matte,Maquiagem,85.0,9,109,Curitiba,PR
+2075,2025-08-04 02:00:00,Perfume Elegance,Perfumaria,350.0,7,168,Belém,PA
+2076,2025-08-04 12:00:00,Condicionador Luxo,Banho,54.88,2,249,Curitiba,PR
+2077,2025-08-04 13:00:00,Perfume Aurora,Perfumaria,150.0,3,228,São Luís,MA
+2078,2025-08-04 10:00:00,Gloss Crystal,Maquiagem,50.0,5,134,Manaus,AM
+2079,2025-08-04 00:00:00,Perfume Aurora,Perfumaria,150.0,3,125,Porto Alegre,RS
+2080,2025-08-05 19:00:00,Perfume Elegance,Perfumaria,350.0,8,125,Belo Horizonte,MG
+2081,2025-08-05 12:00:00,Perfume Aurora,Perfumaria,150.0,1,109,Rio de Janeiro,RJ
+2082,2025-08-05 16:00:00,Esfoliante Premium,Banho,45.84,1,162,Manaus,AM
+2083,2025-08-05 15:00:00,Condicionador Luxo,Banho,59.89,9,147,São Paulo,SP
+2084,2025-08-05 00:00:00,Batom Matte,Maquiagem,85.0,2,120,Belém,PA
+2085,2025-08-06 20:00:00,Perfume Elegance,Perfumaria,350.0,2,215,Porto Alegre,RS
+2086,2025-08-06 03:00:00,Esfoliante Premium,Banho,49.17,9,101,São Paulo,SP
+2087,2025-08-06 23:00:00,Batom Matte,Maquiagem,85.0,8,183,Manaus,AM
+2088,2025-08-06 13:00:00,Gloss Crystal,Maquiagem,50.0,9,215,São Paulo,SP
+2089,2025-08-06 21:00:00,Base Lux,Maquiagem,80.0,4,127,Rio de Janeiro,RJ
+2090,2025-08-07 16:00:00,Perfume Elegance,Perfumaria,350.0,5,102,Belo Horizonte,MG
+2091,2025-08-07 21:00:00,Perfume Elegance,Perfumaria,350.0,1,164,Manaus,AM
+2092,2025-08-07 01:00:00,Base Lux,Maquiagem,80.0,1,218,Porto Alegre,RS
+2093,2025-08-07 21:00:00,Perfume Elegance,Perfumaria,350.0,1,247,Salvador,BA
+2094,2025-08-07 08:00:00,Perfume Elegance,Perfumaria,350.0,1,118,Belo Horizonte,MG
+2095,2025-08-08 16:00:00,Perfume Bloom,Perfumaria,100.0,2,244,Curitiba,PR
+2096,2025-08-08 20:00:00,Esfoliante Premium,Banho,45.67,5,216,Porto Alegre,RS
+2097,2025-08-08 06:00:00,Esfoliante Premium,Banho,48.14,9,165,Rio de Janeiro,RJ
+2098,2025-08-08 12:00:00,Gloss Crystal,Maquiagem,50.0,1,110,Rio de Janeiro,RJ
+2099,2025-08-08 01:00:00,Perfume Bloom,Perfumaria,100.0,5,119,Salvador,BA
+2100,2025-08-09 09:00:00,Condicionador Luxo,Banho,59.44,5,155,Manaus,AM
+2101,2025-08-09 08:00:00,Base Lux,Maquiagem,80.0,5,122,São Paulo,SP
+2102,2025-08-09 06:00:00,Base Lux,Maquiagem,80.0,9,241,Manaus,AM
+2103,2025-08-09 05:00:00,Gloss Crystal,Maquiagem,50.0,6,178,Curitiba,PR
+2104,2025-08-09 23:00:00,Perfume Bloom,Perfumaria,100.0,6,183,Curitiba,PR
+2105,2025-08-10 10:00:00,Gloss Crystal,Maquiagem,50.0,5,223,Manaus,AM
+2106,2025-08-10 22:00:00,Esfoliante Premium,Banho,48.51,7,179,Belém,PA
+2107,2025-08-10 12:00:00,Esfoliante Premium,Banho,49.55,8,243,Belo Horizonte,MG
+2108,2025-08-10 01:00:00,Batom Matte,Maquiagem,85.0,7,226,Porto Alegre,RS
+2109,2025-08-10 16:00:00,Base Lux,Maquiagem,80.0,9,203,Salvador,BA
+2110,2025-08-11 17:00:00,Condicionador Luxo,Banho,56.84,7,135,Manaus,AM
+2111,2025-08-11 08:00:00,Esfoliante Premium,Banho,49.95,6,107,Rio de Janeiro,RJ
+2112,2025-08-11 13:00:00,Gloss Crystal,Maquiagem,50.0,4,163,Belo Horizonte,MG
+2113,2025-08-11 04:00:00,Gloss Crystal,Maquiagem,50.0,9,225,Rio de Janeiro,RJ
+2114,2025-08-11 17:00:00,Base Lux,Maquiagem,80.0,7,208,São Luís,MA
+2115,2025-08-12 08:00:00,Base Lux,Maquiagem,80.0,6,226,Belo Horizonte,MG
+2116,2025-08-12 23:00:00,Esfoliante Premium,Banho,47.1,4,112,São Paulo,SP
+2117,2025-08-12 01:00:00,Perfume Elegance,Perfumaria,350.0,5,137,Rio de Janeiro,RJ
+2118,2025-08-12 14:00:00,Esfoliante Premium,Banho,49.35,2,209,Porto Alegre,RS
+2119,2025-08-12 12:00:00,Perfume Bloom,Perfumaria,100.0,1,245,Porto Alegre,RS
+2120,2025-08-13 13:00:00,Perfume Aurora,Perfumaria,150.0,2,208,Porto Alegre,RS
+2121,2025-08-13 15:00:00,Perfume Bloom,Perfumaria,100.0,5,183,Fortaleza,CE
+2122,2025-08-13 09:00:00,Perfume Bloom,Perfumaria,100.0,2,225,Rio de Janeiro,RJ
+2123,2025-08-13 22:00:00,Batom Matte,Maquiagem,85.0,5,144,Manaus,AM
+2124,2025-08-13 10:00:00,Condicionador Luxo,Banho,56.02,6,209,São Luís,MA
+2125,2025-08-14 20:00:00,Condicionador Luxo,Banho,54.09,8,175,Salvador,BA
+2126,2025-08-14 12:00:00,Base Lux,Maquiagem,80.0,7,217,Fortaleza,CE
+2127,2025-08-14 07:00:00,Batom Matte,Maquiagem,85.0,5,117,São Luís,MA
+2128,2025-08-14 18:00:00,Gloss Crystal,Maquiagem,50.0,8,141,Manaus,AM
+2129,2025-08-14 12:00:00,Condicionador Luxo,Banho,58.63,5,247,São Paulo,SP
+2130,2025-08-15 12:00:00,Gloss Crystal,Maquiagem,50.0,5,123,Curitiba,PR
+2131,2025-08-15 17:00:00,Esfoliante Premium,Banho,45.58,9,219,Belo Horizonte,MG
+2132,2025-08-15 10:00:00,Batom Matte,Maquiagem,85.0,9,161,Rio de Janeiro,RJ
+2133,2025-08-15 17:00:00,Gloss Crystal,Maquiagem,50.0,9,249,Curitiba,PR
+2134,2025-08-15 08:00:00,Base Lux,Maquiagem,80.0,8,113,Belo Horizonte,MG
+2135,2025-08-16 19:00:00,Condicionador Luxo,Banho,57.89,1,124,Belo Horizonte,MG
+2136,2025-08-16 03:00:00,Esfoliante Premium,Banho,48.2,8,139,São Paulo,SP
+2137,2025-08-16 12:00:00,Perfume Bloom,Perfumaria,100.0,7,166,Belém,PA
+2138,2025-08-16 22:00:00,Batom Matte,Maquiagem,85.0,2,111,São Paulo,SP
+2139,2025-08-16 10:00:00,Condicionador Luxo,Banho,54.84,9,191,Manaus,AM
+2140,2025-08-17 02:00:00,Batom Matte,Maquiagem,85.0,6,184,Rio de Janeiro,RJ
+2141,2025-08-17 10:00:00,Batom Matte,Maquiagem,85.0,3,200,Belo Horizonte,MG
+2142,2025-08-17 05:00:00,Base Lux,Maquiagem,80.0,1,184,Belém,PA
+2143,2025-08-17 04:00:00,Perfume Bloom,Perfumaria,100.0,5,237,Porto Alegre,RS
+2144,2025-08-17 09:00:00,Perfume Aurora,Perfumaria,150.0,1,177,Salvador,BA
+2145,2025-08-18 22:00:00,Perfume Elegance,Perfumaria,350.0,5,221,São Luís,MA
+2146,2025-08-18 19:00:00,Condicionador Luxo,Banho,59.6,6,101,Fortaleza,CE
+2147,2025-08-18 20:00:00,Esfoliante Premium,Banho,49.16,3,202,Curitiba,PR
+2148,2025-08-18 11:00:00,Gloss Crystal,Maquiagem,50.0,4,148,São Paulo,SP
+2149,2025-08-18 22:00:00,Perfume Elegance,Perfumaria,350.0,2,176,São Paulo,SP
+2150,2025-08-19 12:00:00,Perfume Bloom,Perfumaria,100.0,9,144,Belo Horizonte,MG
+2151,2025-08-19 21:00:00,Esfoliante Premium,Banho,45.32,4,168,Salvador,BA
+2152,2025-08-19 12:00:00,Base Lux,Maquiagem,80.0,1,186,Belo Horizonte,MG
+2153,2025-08-19 21:00:00,Gloss Crystal,Maquiagem,50.0,6,226,Salvador,BA
+2154,2025-08-19 05:00:00,Perfume Elegance,Perfumaria,350.0,3,220,Curitiba,PR
+2155,2025-08-20 16:00:00,Base Lux,Maquiagem,80.0,9,225,São Paulo,SP
+2156,2025-08-20 05:00:00,Batom Matte,Maquiagem,85.0,7,114,Belém,PA
+2157,2025-08-20 22:00:00,Condicionador Luxo,Banho,59.52,3,195,Fortaleza,CE
+2158,2025-08-20 04:00:00,Perfume Bloom,Perfumaria,100.0,6,169,Rio de Janeiro,RJ
+2159,2025-08-20 05:00:00,Batom Matte,Maquiagem,85.0,8,206,São Paulo,SP
+2160,2025-08-21 09:00:00,Perfume Aurora,Perfumaria,150.0,9,110,Manaus,AM
+2161,2025-08-21 13:00:00,Gloss Crystal,Maquiagem,50.0,9,123,Belo Horizonte,MG
+2162,2025-08-21 11:00:00,Condicionador Luxo,Banho,59.82,5,232,São Paulo,SP
+2163,2025-08-21 23:00:00,Perfume Aurora,Perfumaria,150.0,1,140,Porto Alegre,RS
+2164,2025-08-21 17:00:00,Perfume Aurora,Perfumaria,150.0,1,206,São Luís,MA
+2165,2025-08-22 10:00:00,Gloss Crystal,Maquiagem,50.0,5,245,Belém,PA
+2166,2025-08-22 01:00:00,Perfume Bloom,Perfumaria,100.0,7,149,Rio de Janeiro,RJ
+2167,2025-08-22 10:00:00,Perfume Elegance,Perfumaria,350.0,5,123,Fortaleza,CE
+2168,2025-08-22 05:00:00,Perfume Elegance,Perfumaria,350.0,6,125,São Luís,MA
+2169,2025-08-22 15:00:00,Base Lux,Maquiagem,80.0,2,167,Fortaleza,CE
+2170,2025-08-23 02:00:00,Perfume Bloom,Perfumaria,100.0,1,249,Fortaleza,CE
+2171,2025-08-23 08:00:00,Condicionador Luxo,Banho,58.38,2,125,Salvador,BA
+2172,2025-08-23 18:00:00,Esfoliante Premium,Banho,47.37,1,118,Belém,PA
+2173,2025-08-23 06:00:00,Gloss Crystal,Maquiagem,50.0,9,189,Belém,PA
+2174,2025-08-23 08:00:00,Perfume Aurora,Perfumaria,150.0,9,213,Porto Alegre,RS
+2175,2025-08-24 06:00:00,Gloss Crystal,Maquiagem,50.0,9,236,Curitiba,PR
+2176,2025-08-24 01:00:00,Gloss Crystal,Maquiagem,50.0,8,186,São Luís,MA
+2177,2025-08-24 10:00:00,Perfume Bloom,Perfumaria,100.0,7,164,Manaus,AM
+2178,2025-08-24 00:00:00,Perfume Aurora,Perfumaria,150.0,3,159,Fortaleza,CE
+2179,2025-08-24 04:00:00,Batom Matte,Maquiagem,85.0,7,136,São Luís,MA
+2180,2025-08-25 08:00:00,Gloss Crystal,Maquiagem,50.0,1,237,Belém,PA
+2181,2025-08-25 04:00:00,Perfume Bloom,Perfumaria,100.0,6,121,Manaus,AM
+2182,2025-08-25 06:00:00,Gloss Crystal,Maquiagem,50.0,9,212,Belo Horizonte,MG
+2183,2025-08-25 06:00:00,Perfume Elegance,Perfumaria,350.0,6,199,Manaus,AM
+2184,2025-08-25 03:00:00,Esfoliante Premium,Banho,47.96,7,240,Manaus,AM
+2185,2025-08-26 18:00:00,Perfume Bloom,Perfumaria,100.0,2,123,São Paulo,SP
+2186,2025-08-26 02:00:00,Base Lux,Maquiagem,80.0,3,113,Belém,PA
+2187,2025-08-26 22:00:00,Batom Matte,Maquiagem,85.0,1,176,Belo Horizonte,MG
+2188,2025-08-26 04:00:00,Perfume Aurora,Perfumaria,150.0,4,145,Rio de Janeiro,RJ
+2189,2025-08-26 04:00:00,Perfume Bloom,Perfumaria,100.0,9,180,Manaus,AM
+2190,2025-08-27 16:00:00,Base Lux,Maquiagem,80.0,3,248,Salvador,BA
+2191,2025-08-27 01:00:00,Perfume Aurora,Perfumaria,150.0,9,230,São Luís,MA
+2192,2025-08-27 20:00:00,Esfoliante Premium,Banho,49.92,6,183,Porto Alegre,RS
+2193,2025-08-27 20:00:00,Perfume Bloom,Perfumaria,100.0,2,144,São Luís,MA
+2194,2025-08-27 00:00:00,Gloss Crystal,Maquiagem,50.0,1,248,Belém,PA
+2195,2025-08-28 16:00:00,Base Lux,Maquiagem,80.0,3,127,Fortaleza,CE
+2196,2025-08-28 19:00:00,Perfume Elegance,Perfumaria,350.0,4,225,Curitiba,PR
+2197,2025-08-28 10:00:00,Esfoliante Premium,Banho,46.07,8,184,Belo Horizonte,MG
+2198,2025-08-28 21:00:00,Batom Matte,Maquiagem,85.0,9,113,Rio de Janeiro,RJ
+2199,2025-08-28 03:00:00,Perfume Aurora,Perfumaria,150.0,7,101,Belo Horizonte,MG
+2200,2025-08-29 09:00:00,Esfoliante Premium,Banho,48.24,1,179,Fortaleza,CE
+2201,2025-08-29 01:00:00,Esfoliante Premium,Banho,48.44,1,160,Fortaleza,CE
+2202,2025-08-29 04:00:00,Perfume Bloom,Perfumaria,100.0,9,216,Salvador,BA
+2203,2025-08-29 07:00:00,Perfume Elegance,Perfumaria,350.0,7,210,São Paulo,SP
+2204,2025-08-29 18:00:00,Esfoliante Premium,Banho,48.1,9,245,São Luís,MA
+2205,2025-08-30 03:00:00,Condicionador Luxo,Banho,57.35,4,196,Salvador,BA
+2206,2025-08-30 09:00:00,Esfoliante Premium,Banho,45.42,7,249,Porto Alegre,RS
+2207,2025-08-30 00:00:00,Gloss Crystal,Maquiagem,50.0,2,114,Salvador,BA
+2208,2025-08-30 13:00:00,Perfume Bloom,Perfumaria,100.0,3,217,Fortaleza,CE
+2209,2025-08-30 02:00:00,Perfume Bloom,Perfumaria,100.0,8,188,Rio de Janeiro,RJ
+2210,2025-08-31 15:00:00,Perfume Bloom,Perfumaria,100.0,4,147,Salvador,BA
+2211,2025-08-31 01:00:00,Condicionador Luxo,Banho,59.11,1,155,Salvador,BA
+2212,2025-08-31 09:00:00,Perfume Bloom,Perfumaria,100.0,3,214,São Luís,MA
+2213,2025-08-31 17:00:00,Condicionador Luxo,Banho,58.05,1,225,Porto Alegre,RS
+2214,2025-08-31 07:00:00,Perfume Bloom,Perfumaria,100.0,2,239,Rio de Janeiro,RJ
+2215,2025-09-01 23:00:00,Perfume Aurora,Perfumaria,150.0,9,179,Curitiba,PR
+2216,2025-09-01 20:00:00,Gloss Crystal,Maquiagem,50.0,2,227,São Paulo,SP
+2217,2025-09-01 02:00:00,Condicionador Luxo,Banho,54.4,6,246,Belo Horizonte,MG
+2218,2025-09-01 23:00:00,Gloss Crystal,Maquiagem,50.0,1,101,Belo Horizonte,MG
+2219,2025-09-01 17:00:00,Gloss Crystal,Maquiagem,50.0,7,135,Belém,PA
+2220,2025-09-02 20:00:00,Esfoliante Premium,Banho,46.17,5,196,Curitiba,PR
+2221,2025-09-02 15:00:00,Condicionador Luxo,Banho,55.06,4,218,Porto Alegre,RS
+2222,2025-09-02 05:00:00,Gloss Crystal,Maquiagem,50.0,5,166,Curitiba,PR
+2223,2025-09-02 06:00:00,Esfoliante Premium,Banho,47.21,5,223,Porto Alegre,RS
+2224,2025-09-02 01:00:00,Perfume Bloom,Perfumaria,100.0,7,112,Porto Alegre,RS
+2225,2025-09-03 22:00:00,Base Lux,Maquiagem,80.0,1,148,Rio de Janeiro,RJ
+2226,2025-09-03 16:00:00,Batom Matte,Maquiagem,85.0,7,197,Porto Alegre,RS
+2227,2025-09-03 00:00:00,Perfume Bloom,Perfumaria,100.0,2,219,Salvador,BA
+2228,2025-09-03 04:00:00,Perfume Elegance,Perfumaria,350.0,5,211,Curitiba,PR
+2229,2025-09-03 08:00:00,Perfume Aurora,Perfumaria,150.0,4,184,Salvador,BA
+2230,2025-09-04 21:00:00,Gloss Crystal,Maquiagem,50.0,6,234,Fortaleza,CE
+2231,2025-09-04 20:00:00,Perfume Elegance,Perfumaria,350.0,1,217,Manaus,AM
+2232,2025-09-04 10:00:00,Esfoliante Premium,Banho,45.53,5,195,Manaus,AM
+2233,2025-09-04 22:00:00,Condicionador Luxo,Banho,56.27,1,106,Manaus,AM
+2234,2025-09-04 06:00:00,Perfume Bloom,Perfumaria,100.0,9,192,Belém,PA
+2235,2025-09-05 23:00:00,Perfume Aurora,Perfumaria,150.0,3,147,Curitiba,PR
+2236,2025-09-05 00:00:00,Perfume Aurora,Perfumaria,150.0,9,132,São Paulo,SP
+2237,2025-09-05 22:00:00,Esfoliante Premium,Banho,49.03,5,246,Curitiba,PR
+2238,2025-09-05 19:00:00,Gloss Crystal,Maquiagem,50.0,2,114,Belém,PA
+2239,2025-09-05 23:00:00,Gloss Crystal,Maquiagem,50.0,3,149,Rio de Janeiro,RJ
+2240,2025-09-06 08:00:00,Perfume Elegance,Perfumaria,350.0,2,217,Salvador,BA
+2241,2025-09-06 15:00:00,Perfume Elegance,Perfumaria,350.0,8,241,Salvador,BA
+2242,2025-09-06 13:00:00,Perfume Elegance,Perfumaria,350.0,4,163,São Paulo,SP
+2243,2025-09-06 14:00:00,Esfoliante Premium,Banho,47.94,1,225,Porto Alegre,RS
+2244,2025-09-06 05:00:00,Perfume Elegance,Perfumaria,350.0,1,148,Fortaleza,CE
+2245,2025-09-07 14:00:00,Base Lux,Maquiagem,80.0,1,224,Belo Horizonte,MG
+2246,2025-09-07 14:00:00,Base Lux,Maquiagem,80.0,5,151,Manaus,AM
+2247,2025-09-07 01:00:00,Perfume Aurora,Perfumaria,150.0,3,154,São Luís,MA
+2248,2025-09-07 07:00:00,Esfoliante Premium,Banho,48.32,1,157,Porto Alegre,RS
+2249,2025-09-07 22:00:00,Batom Matte,Maquiagem,85.0,9,158,Curitiba,PR
+2250,2025-09-08 16:00:00,Perfume Elegance,Perfumaria,350.0,5,107,Curitiba,PR
+2251,2025-09-08 07:00:00,Perfume Bloom,Perfumaria,100.0,1,178,Rio de Janeiro,RJ
+2252,2025-09-08 03:00:00,Base Lux,Maquiagem,80.0,5,102,São Paulo,SP
+2253,2025-09-08 00:00:00,Perfume Aurora,Perfumaria,150.0,8,201,Belo Horizonte,MG
+2254,2025-09-08 14:00:00,Batom Matte,Maquiagem,85.0,9,242,Manaus,AM
+2255,2025-09-09 04:00:00,Esfoliante Premium,Banho,45.38,7,239,Porto Alegre,RS
+2256,2025-09-09 19:00:00,Esfoliante Premium,Banho,47.75,6,134,Salvador,BA
+2257,2025-09-09 13:00:00,Batom Matte,Maquiagem,85.0,2,166,Rio de Janeiro,RJ
+2258,2025-09-09 05:00:00,Perfume Bloom,Perfumaria,100.0,6,172,Porto Alegre,RS
+2259,2025-09-09 16:00:00,Perfume Aurora,Perfumaria,150.0,9,186,Manaus,AM
+2260,2025-09-10 06:00:00,Batom Matte,Maquiagem,85.0,7,194,São Paulo,SP
+2261,2025-09-10 23:00:00,Base Lux,Maquiagem,80.0,4,212,Belo Horizonte,MG
+2262,2025-09-10 20:00:00,Perfume Aurora,Perfumaria,150.0,8,104,Rio de Janeiro,RJ
+2263,2025-09-10 04:00:00,Esfoliante Premium,Banho,45.02,1,168,Manaus,AM
+2264,2025-09-10 17:00:00,Base Lux,Maquiagem,80.0,7,145,Fortaleza,CE
+2265,2025-09-11 10:00:00,Perfume Aurora,Perfumaria,150.0,8,224,São Paulo,SP
+2266,2025-09-11 19:00:00,Esfoliante Premium,Banho,48.02,6,249,Manaus,AM
+2267,2025-09-11 06:00:00,Perfume Bloom,Perfumaria,100.0,2,145,Belém,PA
+2268,2025-09-11 04:00:00,Perfume Elegance,Perfumaria,350.0,8,237,Salvador,BA
+2269,2025-09-11 06:00:00,Base Lux,Maquiagem,80.0,5,215,Salvador,BA
+2270,2025-09-12 17:00:00,Esfoliante Premium,Banho,49.64,7,122,Salvador,BA
+2271,2025-09-12 13:00:00,Condicionador Luxo,Banho,56.3,8,145,Manaus,AM
+2272,2025-09-12 12:00:00,Condicionador Luxo,Banho,59.09,9,165,Salvador,BA
+2273,2025-09-12 06:00:00,Perfume Elegance,Perfumaria,350.0,6,135,São Paulo,SP
+2274,2025-09-12 02:00:00,Condicionador Luxo,Banho,56.63,5,192,Curitiba,PR
+2275,2025-09-13 16:00:00,Perfume Elegance,Perfumaria,350.0,3,212,São Luís,MA
+2276,2025-09-13 01:00:00,Batom Matte,Maquiagem,85.0,4,129,Rio de Janeiro,RJ
+2277,2025-09-13 19:00:00,Gloss Crystal,Maquiagem,50.0,9,183,São Paulo,SP
+2278,2025-09-13 13:00:00,Esfoliante Premium,Banho,49.06,2,221,São Luís,MA
+2279,2025-09-13 16:00:00,Condicionador Luxo,Banho,58.62,3,175,Porto Alegre,RS
+2280,2025-09-14 16:00:00,Perfume Aurora,Perfumaria,150.0,6,148,Curitiba,PR
+2281,2025-09-14 01:00:00,Perfume Elegance,Perfumaria,350.0,5,211,São Luís,MA
+2282,2025-09-14 17:00:00,Condicionador Luxo,Banho,57.7,8,241,Fortaleza,CE
+2283,2025-09-14 10:00:00,Esfoliante Premium,Banho,46.44,9,201,Curitiba,PR
+2284,2025-09-14 08:00:00,Condicionador Luxo,Banho,58.16,9,133,Rio de Janeiro,RJ
+2285,2025-09-15 23:00:00,Esfoliante Premium,Banho,46.52,2,178,Salvador,BA
+2286,2025-09-15 08:00:00,Condicionador Luxo,Banho,58.39,2,152,Porto Alegre,RS
+2287,2025-09-15 19:00:00,Perfume Elegance,Perfumaria,350.0,3,145,Belém,PA
+2288,2025-09-15 21:00:00,Condicionador Luxo,Banho,54.42,3,232,Fortaleza,CE
+2289,2025-09-15 11:00:00,Esfoliante Premium,Banho,46.67,4,193,Rio de Janeiro,RJ
+2290,2025-09-16 12:00:00,Condicionador Luxo,Banho,56.15,5,104,Manaus,AM
+2291,2025-09-16 18:00:00,Condicionador Luxo,Banho,59.91,5,150,Rio de Janeiro,RJ
+2292,2025-09-16 06:00:00,Perfume Bloom,Perfumaria,100.0,4,169,São Luís,MA
+2293,2025-09-16 10:00:00,Condicionador Luxo,Banho,55.36,9,127,São Luís,MA
+2294,2025-09-16 22:00:00,Perfume Aurora,Perfumaria,150.0,6,108,Salvador,BA
+2295,2025-09-17 23:00:00,Esfoliante Premium,Banho,49.8,7,235,Manaus,AM
+2296,2025-09-17 14:00:00,Gloss Crystal,Maquiagem,50.0,3,108,Belém,PA
+2297,2025-09-17 22:00:00,Perfume Bloom,Perfumaria,100.0,3,100,Rio de Janeiro,RJ
+2298,2025-09-17 08:00:00,Perfume Elegance,Perfumaria,350.0,6,221,Manaus,AM
+2299,2025-09-17 11:00:00,Perfume Aurora,Perfumaria,150.0,9,157,Curitiba,PR
+2300,2025-09-18 18:00:00,Perfume Bloom,Perfumaria,100.0,5,152,São Luís,MA
+2301,2025-09-18 00:00:00,Batom Matte,Maquiagem,85.0,6,211,Belo Horizonte,MG
+2302,2025-09-18 00:00:00,Perfume Bloom,Perfumaria,100.0,6,121,Belém,PA
+2303,2025-09-18 12:00:00,Base Lux,Maquiagem,80.0,7,175,São Luís,MA
+2304,2025-09-18 06:00:00,Perfume Aurora,Perfumaria,150.0,6,222,Manaus,AM
+2305,2025-09-19 09:00:00,Perfume Aurora,Perfumaria,150.0,4,139,Salvador,BA
+2306,2025-09-19 21:00:00,Base Lux,Maquiagem,80.0,3,210,Belo Horizonte,MG
+2307,2025-09-19 12:00:00,Batom Matte,Maquiagem,85.0,9,196,Manaus,AM
+2308,2025-09-19 14:00:00,Esfoliante Premium,Banho,46.97,5,156,São Paulo,SP
+2309,2025-09-19 13:00:00,Perfume Aurora,Perfumaria,150.0,3,158,São Paulo,SP
+2310,2025-09-20 09:00:00,Condicionador Luxo,Banho,58.51,5,216,Belo Horizonte,MG
+2311,2025-09-20 02:00:00,Base Lux,Maquiagem,80.0,5,135,Belém,PA
+2312,2025-09-20 21:00:00,Condicionador Luxo,Banho,56.82,3,215,Rio de Janeiro,RJ
+2313,2025-09-20 18:00:00,Perfume Aurora,Perfumaria,150.0,4,112,Belém,PA
+2314,2025-09-20 12:00:00,Base Lux,Maquiagem,80.0,7,174,Porto Alegre,RS
+2315,2025-09-21 11:00:00,Base Lux,Maquiagem,80.0,5,115,Belém,PA
+2316,2025-09-21 16:00:00,Batom Matte,Maquiagem,85.0,2,162,Curitiba,PR
+2317,2025-09-21 06:00:00,Perfume Bloom,Perfumaria,100.0,8,235,Salvador,BA
+2318,2025-09-21 20:00:00,Batom Matte,Maquiagem,85.0,4,226,São Paulo,SP
+2319,2025-09-21 05:00:00,Perfume Elegance,Perfumaria,350.0,7,112,São Paulo,SP
+2320,2025-09-22 04:00:00,Perfume Bloom,Perfumaria,100.0,3,249,Belém,PA
+2321,2025-09-22 16:00:00,Perfume Aurora,Perfumaria,150.0,5,184,Belo Horizonte,MG
+2322,2025-09-22 19:00:00,Perfume Elegance,Perfumaria,350.0,5,228,Salvador,BA
+2323,2025-09-22 07:00:00,Perfume Elegance,Perfumaria,350.0,5,110,Fortaleza,CE
+2324,2025-09-22 12:00:00,Base Lux,Maquiagem,80.0,5,186,Belo Horizonte,MG
+2325,2025-09-23 19:00:00,Gloss Crystal,Maquiagem,50.0,4,206,Belém,PA
+2326,2025-09-23 19:00:00,Gloss Crystal,Maquiagem,50.0,1,212,Belo Horizonte,MG
+2327,2025-09-23 06:00:00,Esfoliante Premium,Banho,45.83,6,121,Curitiba,PR
+2328,2025-09-23 15:00:00,Perfume Bloom,Perfumaria,100.0,6,214,São Luís,MA
+2329,2025-09-23 15:00:00,Condicionador Luxo,Banho,54.56,6,100,Salvador,BA
+2330,2025-09-24 03:00:00,Perfume Aurora,Perfumaria,150.0,5,164,São Paulo,SP
+2331,2025-09-24 17:00:00,Esfoliante Premium,Banho,49.6,6,184,Manaus,AM
+2332,2025-09-24 04:00:00,Perfume Bloom,Perfumaria,100.0,8,148,Fortaleza,CE
+2333,2025-09-24 21:00:00,Perfume Bloom,Perfumaria,100.0,9,154,Fortaleza,CE
+2334,2025-09-24 09:00:00,Batom Matte,Maquiagem,85.0,8,246,Manaus,AM
+2335,2025-09-25 09:00:00,Perfume Aurora,Perfumaria,150.0,8,123,Salvador,BA
+2336,2025-09-25 20:00:00,Perfume Aurora,Perfumaria,150.0,1,170,Curitiba,PR
+2337,2025-09-25 23:00:00,Batom Matte,Maquiagem,85.0,3,163,Rio de Janeiro,RJ
+2338,2025-09-25 04:00:00,Batom Matte,Maquiagem,85.0,5,113,Belo Horizonte,MG
+2339,2025-09-25 13:00:00,Condicionador Luxo,Banho,57.06,7,174,Salvador,BA
+2340,2025-09-26 15:00:00,Perfume Elegance,Perfumaria,350.0,5,242,Rio de Janeiro,RJ
+2341,2025-09-26 03:00:00,Base Lux,Maquiagem,80.0,8,192,Salvador,BA
+2342,2025-09-26 06:00:00,Batom Matte,Maquiagem,85.0,9,127,Belo Horizonte,MG
+2343,2025-09-26 02:00:00,Batom Matte,Maquiagem,85.0,5,215,Porto Alegre,RS
+2344,2025-09-26 02:00:00,Esfoliante Premium,Banho,48.67,8,122,Salvador,BA
+2345,2025-09-27 13:00:00,Esfoliante Premium,Banho,49.35,3,215,Fortaleza,CE
+2346,2025-09-27 10:00:00,Gloss Crystal,Maquiagem,50.0,4,183,São Paulo,SP
+2347,2025-09-27 17:00:00,Gloss Crystal,Maquiagem,50.0,7,165,Belém,PA
+2348,2025-09-27 05:00:00,Gloss Crystal,Maquiagem,50.0,5,228,São Luís,MA
+2349,2025-09-27 01:00:00,Perfume Bloom,Perfumaria,100.0,8,147,Manaus,AM
+2350,2025-09-28 06:00:00,Esfoliante Premium,Banho,45.22,5,121,São Luís,MA
+2351,2025-09-28 17:00:00,Perfume Aurora,Perfumaria,150.0,2,195,Porto Alegre,RS
+2352,2025-09-28 05:00:00,Esfoliante Premium,Banho,46.5,9,163,São Paulo,SP
+2353,2025-09-28 17:00:00,Condicionador Luxo,Banho,54.19,8,206,São Paulo,SP
+2354,2025-09-28 07:00:00,Esfoliante Premium,Banho,48.81,4,216,Salvador,BA
+2355,2025-09-29 15:00:00,Perfume Bloom,Perfumaria,100.0,7,153,Rio de Janeiro,RJ
+2356,2025-09-29 14:00:00,Condicionador Luxo,Banho,56.27,3,149,São Luís,MA
+2357,2025-09-29 09:00:00,Perfume Bloom,Perfumaria,100.0,9,144,Manaus,AM
+2358,2025-09-29 11:00:00,Gloss Crystal,Maquiagem,50.0,6,147,São Paulo,SP
+2359,2025-09-29 08:00:00,Perfume Elegance,Perfumaria,350.0,7,111,Curitiba,PR
+2360,2025-09-30 12:00:00,Perfume Aurora,Perfumaria,150.0,2,150,Belo Horizonte,MG
+2361,2025-09-30 02:00:00,Perfume Elegance,Perfumaria,350.0,2,115,São Luís,MA
+2362,2025-09-30 23:00:00,Esfoliante Premium,Banho,47.25,7,180,Salvador,BA
+2363,2025-09-30 10:00:00,Gloss Crystal,Maquiagem,50.0,1,114,São Paulo,SP
+2364,2025-09-30 22:00:00,Batom Matte,Maquiagem,85.0,5,120,Salvador,BA
+2365,2025-10-01 11:00:00,Perfume Bloom,Perfumaria,100.0,4,209,Belém,PA
+2366,2025-10-01 17:00:00,Base Lux,Maquiagem,80.0,3,125,Rio de Janeiro,RJ
+2367,2025-10-01 23:00:00,Perfume Elegance,Perfumaria,350.0,2,180,Fortaleza,CE
+2368,2025-10-01 23:00:00,Perfume Aurora,Perfumaria,150.0,8,237,São Paulo,SP
+2369,2025-10-01 16:00:00,Gloss Crystal,Maquiagem,50.0,4,140,Rio de Janeiro,RJ
+2370,2025-10-02 07:00:00,Gloss Crystal,Maquiagem,50.0,8,235,Curitiba,PR
+2371,2025-10-02 08:00:00,Perfume Elegance,Perfumaria,350.0,6,229,São Paulo,SP
+2372,2025-10-02 10:00:00,Batom Matte,Maquiagem,85.0,3,225,Manaus,AM
+2373,2025-10-02 22:00:00,Condicionador Luxo,Banho,56.61,3,218,Belo Horizonte,MG
+2374,2025-10-02 02:00:00,Batom Matte,Maquiagem,85.0,2,223,São Luís,MA
+2375,2025-10-03 22:00:00,Perfume Elegance,Perfumaria,350.0,6,179,Belém,PA
+2376,2025-10-03 07:00:00,Perfume Aurora,Perfumaria,150.0,9,184,São Luís,MA
+2377,2025-10-03 22:00:00,Perfume Aurora,Perfumaria,150.0,3,248,Fortaleza,CE
+2378,2025-10-03 08:00:00,Condicionador Luxo,Banho,58.75,1,194,Rio de Janeiro,RJ
+2379,2025-10-03 13:00:00,Batom Matte,Maquiagem,85.0,1,227,Porto Alegre,RS
+2380,2025-10-04 23:00:00,Perfume Bloom,Perfumaria,100.0,7,225,Rio de Janeiro,RJ
+2381,2025-10-04 20:00:00,Gloss Crystal,Maquiagem,50.0,2,161,Salvador,BA
+2382,2025-10-04 17:00:00,Perfume Elegance,Perfumaria,350.0,7,230,Porto Alegre,RS
+2383,2025-10-04 13:00:00,Gloss Crystal,Maquiagem,50.0,7,172,São Paulo,SP
+2384,2025-10-04 06:00:00,Batom Matte,Maquiagem,85.0,2,208,Manaus,AM
+2385,2025-10-05 23:00:00,Gloss Crystal,Maquiagem,50.0,3,201,Porto Alegre,RS
+2386,2025-10-05 06:00:00,Base Lux,Maquiagem,80.0,3,105,São Paulo,SP
+2387,2025-10-05 18:00:00,Perfume Bloom,Perfumaria,100.0,3,151,São Luís,MA
+2388,2025-10-05 00:00:00,Gloss Crystal,Maquiagem,50.0,3,126,Belo Horizonte,MG
+2389,2025-10-05 21:00:00,Esfoliante Premium,Banho,45.19,7,205,Belém,PA
+2390,2025-10-06 15:00:00,Condicionador Luxo,Banho,54.47,8,247,São Paulo,SP
+2391,2025-10-06 20:00:00,Perfume Elegance,Perfumaria,350.0,4,169,Belém,PA
+2392,2025-10-06 04:00:00,Perfume Bloom,Perfumaria,100.0,1,130,Rio de Janeiro,RJ
+2393,2025-10-06 07:00:00,Gloss Crystal,Maquiagem,50.0,8,106,Fortaleza,CE
+2394,2025-10-06 04:00:00,Batom Matte,Maquiagem,85.0,7,221,Porto Alegre,RS
+2395,2025-10-07 13:00:00,Condicionador Luxo,Banho,56.0,1,142,Belo Horizonte,MG
+2396,2025-10-07 07:00:00,Batom Matte,Maquiagem,85.0,1,172,São Paulo,SP
+2397,2025-10-07 06:00:00,Base Lux,Maquiagem,80.0,4,102,São Luís,MA
+2398,2025-10-07 13:00:00,Condicionador Luxo,Banho,55.03,8,132,Belém,PA
+2399,2025-10-07 07:00:00,Esfoliante Premium,Banho,49.63,4,108,Salvador,BA
+2400,2025-10-08 01:00:00,Perfume Elegance,Perfumaria,350.0,8,234,Belém,PA
+2401,2025-10-08 12:00:00,Perfume Elegance,Perfumaria,350.0,5,199,Rio de Janeiro,RJ
+2402,2025-10-08 13:00:00,Gloss Crystal,Maquiagem,50.0,7,230,São Luís,MA
+2403,2025-10-08 05:00:00,Esfoliante Premium,Banho,46.65,3,112,Fortaleza,CE
+2404,2025-10-08 07:00:00,Batom Matte,Maquiagem,85.0,9,130,São Luís,MA
+2405,2025-10-09 20:00:00,Esfoliante Premium,Banho,45.47,3,129,São Luís,MA
+2406,2025-10-09 08:00:00,Perfume Elegance,Perfumaria,350.0,7,128,Belém,PA
+2407,2025-10-09 01:00:00,Perfume Aurora,Perfumaria,150.0,1,243,Salvador,BA
+2408,2025-10-09 11:00:00,Base Lux,Maquiagem,80.0,7,168,Rio de Janeiro,RJ
+2409,2025-10-09 05:00:00,Perfume Bloom,Perfumaria,100.0,4,148,Belém,PA
+2410,2025-10-10 04:00:00,Base Lux,Maquiagem,80.0,6,249,Salvador,BA
+2411,2025-10-10 20:00:00,Condicionador Luxo,Banho,58.7,8,129,São Paulo,SP
+2412,2025-10-10 22:00:00,Condicionador Luxo,Banho,55.02,8,141,Porto Alegre,RS
+2413,2025-10-10 09:00:00,Perfume Elegance,Perfumaria,350.0,4,220,São Paulo,SP
+2414,2025-10-10 12:00:00,Condicionador Luxo,Banho,56.91,4,197,Manaus,AM
+2415,2025-10-11 21:00:00,Condicionador Luxo,Banho,54.08,3,195,Belém,PA
+2416,2025-10-11 05:00:00,Base Lux,Maquiagem,80.0,7,161,São Paulo,SP
+2417,2025-10-11 09:00:00,Gloss Crystal,Maquiagem,50.0,8,121,São Paulo,SP
+2418,2025-10-11 08:00:00,Base Lux,Maquiagem,80.0,2,171,Curitiba,PR
+2419,2025-10-11 06:00:00,Perfume Aurora,Perfumaria,150.0,7,179,Belém,PA
+2420,2025-10-12 13:00:00,Base Lux,Maquiagem,80.0,8,178,Rio de Janeiro,RJ
+2421,2025-10-12 16:00:00,Perfume Bloom,Perfumaria,100.0,2,187,Fortaleza,CE
+2422,2025-10-12 00:00:00,Gloss Crystal,Maquiagem,50.0,5,213,Salvador,BA
+2423,2025-10-12 20:00:00,Esfoliante Premium,Banho,45.44,3,197,Curitiba,PR
+2424,2025-10-12 02:00:00,Perfume Bloom,Perfumaria,100.0,3,173,Fortaleza,CE
+2425,2025-10-13 15:00:00,Gloss Crystal,Maquiagem,50.0,6,138,Manaus,AM
+2426,2025-10-13 21:00:00,Base Lux,Maquiagem,80.0,8,112,São Paulo,SP
+2427,2025-10-13 18:00:00,Perfume Aurora,Perfumaria,150.0,8,131,Porto Alegre,RS
+2428,2025-10-13 12:00:00,Gloss Crystal,Maquiagem,50.0,2,216,Salvador,BA
+2429,2025-10-13 14:00:00,Perfume Bloom,Perfumaria,100.0,4,230,Belo Horizonte,MG
+2430,2025-10-14 14:00:00,Condicionador Luxo,Banho,57.1,3,129,Manaus,AM
+2431,2025-10-14 06:00:00,Esfoliante Premium,Banho,45.35,2,130,Belém,PA
+2432,2025-10-14 23:00:00,Perfume Aurora,Perfumaria,150.0,1,188,Fortaleza,CE
+2433,2025-10-14 05:00:00,Gloss Crystal,Maquiagem,50.0,9,241,São Paulo,SP
+2434,2025-10-14 05:00:00,Esfoliante Premium,Banho,47.69,1,187,Rio de Janeiro,RJ
+2435,2025-10-15 09:00:00,Batom Matte,Maquiagem,85.0,6,106,São Luís,MA
+2436,2025-10-15 06:00:00,Base Lux,Maquiagem,80.0,3,209,Salvador,BA
+2437,2025-10-15 01:00:00,Perfume Bloom,Perfumaria,100.0,6,127,Fortaleza,CE
+2438,2025-10-15 18:00:00,Perfume Bloom,Perfumaria,100.0,3,147,Manaus,AM
+2439,2025-10-15 23:00:00,Condicionador Luxo,Banho,59.27,6,245,São Paulo,SP
+2440,2025-10-16 10:00:00,Gloss Crystal,Maquiagem,50.0,8,104,Fortaleza,CE
+2441,2025-10-16 20:00:00,Perfume Bloom,Perfumaria,100.0,2,160,Manaus,AM
+2442,2025-10-16 22:00:00,Perfume Elegance,Perfumaria,350.0,1,168,Fortaleza,CE
+2443,2025-10-16 20:00:00,Perfume Bloom,Perfumaria,100.0,4,239,São Luís,MA
+2444,2025-10-16 23:00:00,Perfume Elegance,Perfumaria,350.0,7,209,São Paulo,SP
+2445,2025-10-17 22:00:00,Gloss Crystal,Maquiagem,50.0,4,214,Belo Horizonte,MG
+2446,2025-10-17 01:00:00,Condicionador Luxo,Banho,55.86,3,169,Fortaleza,CE
+2447,2025-10-17 16:00:00,Batom Matte,Maquiagem,85.0,5,205,Rio de Janeiro,RJ
+2448,2025-10-17 00:00:00,Perfume Bloom,Perfumaria,100.0,1,177,São Luís,MA
+2449,2025-10-17 10:00:00,Batom Matte,Maquiagem,85.0,9,137,São Paulo,SP
+2450,2025-10-18 08:00:00,Batom Matte,Maquiagem,85.0,4,233,Salvador,BA
+2451,2025-10-18 22:00:00,Condicionador Luxo,Banho,54.4,5,210,São Paulo,SP
+2452,2025-10-18 16:00:00,Perfume Aurora,Perfumaria,150.0,3,169,Belém,PA
+2453,2025-10-18 04:00:00,Condicionador Luxo,Banho,54.65,5,153,Fortaleza,CE
+2454,2025-10-18 23:00:00,Esfoliante Premium,Banho,45.25,6,113,Curitiba,PR
+2455,2025-10-19 05:00:00,Condicionador Luxo,Banho,55.63,2,107,Curitiba,PR
+2456,2025-10-19 16:00:00,Perfume Elegance,Perfumaria,350.0,2,192,Rio de Janeiro,RJ
+2457,2025-10-19 04:00:00,Batom Matte,Maquiagem,85.0,6,206,Porto Alegre,RS
+2458,2025-10-19 19:00:00,Perfume Bloom,Perfumaria,100.0,8,100,Curitiba,PR
+2459,2025-10-19 06:00:00,Base Lux,Maquiagem,80.0,1,112,São Luís,MA
+2460,2025-10-20 23:00:00,Gloss Crystal,Maquiagem,50.0,5,111,Fortaleza,CE
+2461,2025-10-20 22:00:00,Perfume Aurora,Perfumaria,150.0,3,241,Belo Horizonte,MG
+2462,2025-10-20 16:00:00,Gloss Crystal,Maquiagem,50.0,6,206,São Paulo,SP
+2463,2025-10-20 20:00:00,Condicionador Luxo,Banho,59.12,6,175,Manaus,AM
+2464,2025-10-20 13:00:00,Base Lux,Maquiagem,80.0,8,168,Fortaleza,CE
+2465,2025-10-21 19:00:00,Batom Matte,Maquiagem,85.0,2,160,Belém,PA
+2466,2025-10-21 16:00:00,Perfume Bloom,Perfumaria,100.0,2,101,Manaus,AM
+2467,2025-10-21 12:00:00,Perfume Aurora,Perfumaria,150.0,4,216,Porto Alegre,RS
+2468,2025-10-21 12:00:00,Base Lux,Maquiagem,80.0,4,190,São Luís,MA
+2469,2025-10-21 15:00:00,Gloss Crystal,Maquiagem,50.0,6,198,Curitiba,PR
+2470,2025-10-22 09:00:00,Gloss Crystal,Maquiagem,50.0,2,130,Manaus,AM
+2471,2025-10-22 18:00:00,Perfume Elegance,Perfumaria,350.0,9,138,Rio de Janeiro,RJ
+2472,2025-10-22 10:00:00,Perfume Bloom,Perfumaria,100.0,7,159,São Luís,MA
+2473,2025-10-22 20:00:00,Perfume Elegance,Perfumaria,350.0,9,236,Belo Horizonte,MG
+2474,2025-10-22 18:00:00,Perfume Bloom,Perfumaria,100.0,4,122,Rio de Janeiro,RJ
+2475,2025-10-23 13:00:00,Base Lux,Maquiagem,80.0,5,221,Curitiba,PR
+2476,2025-10-23 03:00:00,Gloss Crystal,Maquiagem,50.0,8,206,Rio de Janeiro,RJ
+2477,2025-10-23 07:00:00,Perfume Elegance,Perfumaria,350.0,3,247,São Luís,MA
+2478,2025-10-23 23:00:00,Base Lux,Maquiagem,80.0,6,155,Belém,PA
+2479,2025-10-23 02:00:00,Perfume Aurora,Perfumaria,150.0,4,140,São Luís,MA
+2480,2025-10-24 19:00:00,Perfume Bloom,Perfumaria,100.0,4,206,São Paulo,SP
+2481,2025-10-24 12:00:00,Gloss Crystal,Maquiagem,50.0,4,223,Porto Alegre,RS
+2482,2025-10-24 07:00:00,Perfume Bloom,Perfumaria,100.0,1,134,Manaus,AM
+2483,2025-10-24 06:00:00,Condicionador Luxo,Banho,55.52,5,138,Curitiba,PR
+2484,2025-10-24 21:00:00,Esfoliante Premium,Banho,46.39,3,180,Porto Alegre,RS
+2485,2025-10-25 19:00:00,Condicionador Luxo,Banho,59.95,6,201,São Luís,MA
+2486,2025-10-25 13:00:00,Batom Matte,Maquiagem,85.0,2,239,Porto Alegre,RS
+2487,2025-10-25 04:00:00,Batom Matte,Maquiagem,85.0,2,170,Fortaleza,CE
+2488,2025-10-25 18:00:00,Esfoliante Premium,Banho,49.87,2,248,São Paulo,SP
+2489,2025-10-25 12:00:00,Perfume Aurora,Perfumaria,150.0,5,193,Rio de Janeiro,RJ
+2490,2025-10-26 13:00:00,Perfume Aurora,Perfumaria,150.0,4,170,Belém,PA
+2491,2025-10-26 17:00:00,Base Lux,Maquiagem,80.0,4,210,Salvador,BA
+2492,2025-10-26 17:00:00,Perfume Elegance,Perfumaria,350.0,5,162,Curitiba,PR
+2493,2025-10-26 19:00:00,Perfume Aurora,Perfumaria,150.0,3,143,Belo Horizonte,MG
+2494,2025-10-26 19:00:00,Esfoliante Premium,Banho,47.81,4,200,Belém,PA
+2495,2025-10-27 18:00:00,Base Lux,Maquiagem,80.0,9,233,São Paulo,SP
+2496,2025-10-27 20:00:00,Condicionador Luxo,Banho,58.6,7,147,Manaus,AM
+2497,2025-10-27 07:00:00,Batom Matte,Maquiagem,85.0,2,124,São Paulo,SP
+2498,2025-10-27 10:00:00,Condicionador Luxo,Banho,59.07,2,152,São Luís,MA
+2499,2025-10-27 18:00:00,Condicionador Luxo,Banho,56.11,5,107,Fortaleza,CE
